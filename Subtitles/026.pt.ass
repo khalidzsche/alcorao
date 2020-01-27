@@ -11,6 +11,7 @@ PlayResY: 360
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
+Last Style Storage: Default
 Audio File: ../../../Movies/سورة الشعراء مشاري راشد العفاسي-QwVQnuSeqbY.mp4
 Video File: ../../../Movies/سورة الشعراء مشاري راشد العفاسي-QwVQnuSeqbY.mp4
 Video AR Mode: 4
@@ -20,7 +21,7 @@ Active Line: 5
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Bitter,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
 Style: Other,Roboto Slab,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
 
 [Events]
