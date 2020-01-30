@@ -6,22 +6,21 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: /Users/marcondes/Movies/Quran/سورة يونس  - - عام 1425 هـ _ 2004 م الشيخ مشاري راشد العفاسي-vEGuCUOhj74.mp4
-Video File: /Users/marcondes/Movies/Quran/سورة يونس  - - عام 1425 هـ _ 2004 م الشيخ مشاري راشد العفاسي-vEGuCUOhj74.mp4
+Audio File: ../../../Movies/Quran/010.1080p.mp4
+Video File: ../../../Movies/Quran/010.1080p.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 3.000000
-Video Position: 53244
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Slab,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,5,10,10,10,1
-Style: Other,Roboto Slab,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
+Style: Default,Ubuntu,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,15,0,5,30,30,30,1
+Style: Other,Roboto Slab,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,2.4,2,30,30,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
