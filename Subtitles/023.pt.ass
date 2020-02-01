@@ -6,91 +6,153 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1280
-PlayResY: 720
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../سورة المؤمنون لعام 1431 هـ - Surat 'Al-Mo'menon '-mwfqcqCqhX0.mp4
-Video File: ../../../سورة المؤمنون لعام 1431 هـ - Surat 'Al-Mo'menon '-mwfqcqCqhX0.mp4
+Audio File: ../../../Movies/Quran/023.mp4
+Video File: ../../../Movies/Quran/023.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 54
-Active Line: 64
-Video Position: 10512
+Video Zoom Percent: 2.000000
+Scroll Position: 88
+Active Line: 93
+Video Position: 2334
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Bitter,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,20,5,2,20,20,20,1
-Style: Other,Roboto Slab,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.6,2,20,20,20,1
+Style: Default,Ubuntu,75,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,15,0,2,30,30,30,1
+Style: Other,Roboto Slab,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:24.26,0:00:35.83,Default,,0,0,0,,57. Quanto àqueles que são reverentes, por temos ao seu Senhor;
-Dialogue: 0,0:00:35.83,0:00:44.30,Default,,0,0,0,,58. Que crêem nos versículos do seu Senhor;
-Dialogue: 0,0:00:44.30,0:00:52.13,Default,,0,0,0,,59. Que não atribuem parceiros ao seu Senhor;
-Dialogue: 0,0:00:52.13,0:01:10.46,Default,,0,0,0,,60. Que dão o que devem dar, com os corações cheios de temor, porque retornarão ao seu Senhor;
-Dialogue: 0,0:01:10.46,0:01:23.16,Default,,0,0,0,,61. Estes apressam-se em praticar boas ações; tais serão os primeiros contemplados.
-Dialogue: 0,0:01:23.16,0:01:37.40,Default,,0,0,0,,62. Jamais imporemos a uma alma uma carga superior às suas forças, pois possuímos o Livro, que proclama a justiça e, assim, não serão enganados.
-Dialogue: 0,0:01:37.56,0:01:52.63,Default,,0,0,0,,63. Porém, com respeito a isso, seus corações estão indecisos e, ademais, cometem outros atos, além desse.
-Dialogue: 0,0:01:52.70,0:02:06.90,Default,,0,0,0,,64. (Isso) até o momento em que castiguemos os opulentos, dentre eles; então, ei-los que gemer!
-Dialogue: 0,0:02:06.96,0:02:17.26,Default,,0,0,0,,65. Ser-lhes-á dito: Não protesteis, porque hoje não sereis socorridos por Nós
-Dialogue: 0,0:02:17.43,0:02:32.40,Default,,0,0,0,,66. Porque foram-vos recitados os Meus versículos; contudo, lhes voltastes as costas,
-Dialogue: 0,0:02:32.46,0:02:39.70,Default,,0,0,0,,67. Com ensoberbecimento; passáveis noitadas difamando (o Alcorão).
-Dialogue: 0,0:02:39.80,0:02:55.43,Default,,0,0,0,,68. Porventura, não refletem nas palavras, ou lhes chegou algo que não havia chegado aos seus antepassados?
-Dialogue: 0,0:02:55.50,0:03:04.10,Default,,0,0,0,,69. Ou não conhecem seu Mensageiro, e por isso o negam?
-Dialogue: 0,0:03:04.10,0:03:19.93,Default,,0,0,0,,70. Ou dizem que está possesso! Qual! Ele lhes trouxe a verdade, embora à maioria desgostasse a verdade.
-Dialogue: 0,0:03:19.93,0:03:33.93,Default,,0,0,0,,71. E se a verdade tivesse satisfeito os seus interesses, os céus e a terra, com tudo quanto enceram, transformar-se-iam num caos.
-Dialogue: 0,0:03:36.80,0:03:44.40,Default,,0,0,0,,Qual! Enviamos-lhes a Mensagem e assim mesmo a desdenharam.
-Dialogue: 0,0:03:44.40,0:03:55.63,Default,,0,0,0,,72. Exiges-lhes, acaso, por isso, alguma retribuição? Saibam que a retribuição do teu Senhor é preferível, porque Ele é o melhor dos agraciadores.
-Dialogue: 0,0:03:55.63,0:04:04.23,Default,,0,0,0,,73. É verdade que tu procuras convocá-los à senda reta.
-Dialogue: 0,0:04:04.23,0:04:14.63,Default,,0,0,0,,74. Porém, certamente, aqueles que não crêem na outra vida desviam-se da senda.
-Dialogue: 0,0:04:14.63,0:04:27.90,Default,,0,0,0,,75. Mas se Nos apiedarmos deles e os libertarmos da adversidade que os aflige, persistirão, vacilantes, na sua transgressão.
-Dialogue: 0,0:04:27.90,0:04:40.23,Default,,0,0,0,,76. Castigamo-los; porém, não se submeteram ao seu Senhor, nem se humilharam,
-Dialogue: 0,0:04:40.33,0:04:56.06,Default,,0,0,0,,77. Até que lhes abrimos uma porta para um severíssimo castigo; e ei-los que ficaram desesperados!
-Dialogue: 0,0:04:56.06,0:05:10.80,Default,,0,0,0,,78. Ele foi quem vos criou o ouvido, a vista e o coração. Quão pouco Lhe agradeceis!
-Dialogue: 0,0:05:10.80,0:05:18.73,Default,,0,0,0,,79. Ele é quem vos multiplica, na terra, e sereis consagrados ante Ele.
-Dialogue: 0,0:05:18.73,0:05:32.33,Default,,0,0,0,,80. E Ele é Quem dá a vida e a morte. Só a Ele pertence a alternação da notei e do dia, não raciocinais?
-Dialogue: 0,0:05:32.33,0:05:38.23,Default,,0,0,0,,81. Ao contrário, dizem o mesmo que diziam os seus antepassados:
-Dialogue: 0,0:05:38.23,0:05:52.83,Default,,0,0,0,,82. Porventura, quando morrermos e nos tivermos convertido em ossos e pó, seremos ressuscitados?
-Dialogue: 0,0:05:52.83,0:06:10.56,Default,,0,0,0,,83. Havia-nos sido prometido o mesmo, tanto a nós como aos nossos antepassados; porém, isso é não mais do que fábulas dos primitivos.
-Dialogue: 0,0:06:10.56,0:06:22.76,Default,,0,0,0,,84. Pergunta-lhes: "A quem pertence a terra e tudo quanto nela existe? Dizei-o, se o sabeis!"
-Dialogue: 0,0:06:22.76,0:06:32.16,Default,,0,0,0,,85. Responderão: "A Deus!" Dize-lhes: "Não meditais, pois?"
-Dialogue: 0,0:06:32.16,0:06:40.56,Default,,0,0,0,,86. Pergunta-lhes: "Quem é o Senhor dos sete céus e o Senhor do Trono Supremo?"
-Dialogue: 0,0:06:40.56,0:06:49.83,Default,,0,0,0,,87. Responderão: "Deus!" Pergunta-lhe mais: "Não (O) temeis, pois?"
-Dialogue: 0,0:06:49.83,0:07:08.03,Default,,0,0,0,,88. Pergunta-lhes, ainda: "Quem tem em seu poder a soberania de todas as coisas? Que protege e de ninguém necessita proteção? (Respondei) se sabeis!"
-Dialogue: 0,0:07:08.03,0:07:17.96,Default,,0,0,0,,89. Responderão: "Deus!" Dize-lhes: "Como, então, vos deixais enganar?"
-Dialogue: 0,0:07:17.96,0:07:27.43,Default,,0,0,0,,90. Nós trazemos-lhes a verdade, porém, sem dúvida que são embusteiros!
-Dialogue: 0,0:07:27.43,0:07:37.76,Default,,0,0,0,,91. Deus não teve filho algum, nem jamais nenhum outro deus compartilhou com Ele a divindade!
-Dialogue: 0,0:07:37.86,0:07:47.03,Default,,0,0,0,,Porque se assim fosse, cada deus ter-se-ia apropriado da sua criação e teriam prevalecido uns sobre os outros.
-Dialogue: 0,0:07:47.06,0:07:53.26,Default,,0,0,0,,Glorificado seja Deus de tudo quanto descrevem!
-Dialogue: 0,0:07:53.26,0:08:04.60,Default,,0,0,0,,92. Possuidor do desconhecido e do conhecido! Exaltado seja (Deus), de tudo quanto Lhe atribuem!
-Dialogue: 0,0:08:04.60,0:08:13.90,Default,,0,0,0,,93. Dize: "Ó Senhor meu, se me fizeres ver (em vida) aquilo quanto ao que são admoestados..."
-Dialogue: 0,0:08:13.90,0:08:20.96,Default,,0,0,0,,94. "Ó Senhor meu, não me conteis entre os injustos!"
-Dialogue: 0,0:08:20.96,0:08:30.63,Default,,0,0,0,,95. Em verdade, podemos mostrar-te o que lhe temos prometido.
-Dialogue: 0,0:08:30.63,0:08:41.00,Default,,0,0,0,,96. Retribui, tu, o mal da melhor forma; Nós sabemos melhor do que ninguém o que dizem.
-Dialogue: 0,0:08:41.00,0:08:46.96,Default,,0,0,0,,97. E dize: "Ó Senhor meu, em Ti me amparo contra as insinuações dos demônios!"
-Dialogue: 0,0:08:46.96,0:08:53.63,Default,,0,0,0,,98. "E em Ti me amparo, ó Senhor meu, para que não se aproximem (de mim)."
-Dialogue: 0,0:08:53.63,0:09:06.86,Default,,0,0,0,,99. (Quanto a eles, seguirão sendo idólatras) até que, quando a morte surpreender algum deles, este dirá: "Ó Senhor meu, mande-me de volta (à terra)",
-Dialogue: 0,0:09:06.86,0:09:33.26,Default,,0,0,0,,100. A fim de eu praticar o bem que negligenciei! Pois sim! Tal será a frase que dirá! E ante eles haverá uma barreira, que os deterá até ao dia em que forem ressuscitados.
-Dialogue: 0,0:09:33.26,0:09:49.46,Default,,0,0,0,,101. Porém, quando for soada a trombeta, nesse dia não haverá mais linhagem entre eles, nem se consultarão entre si.
-Dialogue: 0,0:09:49.46,0:10:01.36,Default,,0,0,0,,102. Quanto àqueles cujas ações pesarem mais serão os bem-aventurados.
-Dialogue: 0,0:10:01.36,0:10:24.16,Default,,0,0,0,,103. Em troca, aqueles cujas ações forem leves serão desventurados e permanecerão eternamente no inferno.
-Dialogue: 0,0:10:24.23,0:10:32.90,Default,,0,0,0,,104. O fogo abrasará os seus rostos, e estarão com os dentes arreganhados.
-Dialogue: 0,0:10:32.90,0:10:44.96,Default,,0,0,0,,105. Acaso, não vos forem recitados os Meus versículos e vós os desmentistes?
-Dialogue: 0,0:10:44.96,0:11:01.33,Default,,0,0,0,,106. Exclamarão: Ó Senhor nosso, nossos desejos nos dominaram, e fomos um povo extraviado!
-Dialogue: 0,0:11:01.33,0:11:14.06,Default,,0,0,0,,107. Ó Senhor nosso, tira-nos daqui! E se reincidirmos, então seremos injustos!
-Dialogue: 0,0:11:14.06,0:11:20.50,Default,,0,0,0,,108. Ele lhes dirá: Entrai aí e não Me dirijas a palavra.
-Dialogue: 0,0:11:20.50,0:11:43.33,Default,,0,0,0,,109. Houve uma parte de Meus servos que dizia: Ó Senhor nosso, cremos! Perdoa-nos, pois, e tem piedade de nós, porque Tu és o melhor dos misericordiosos!
-Dialogue: 0,0:11:43.33,0:12:01.03,Default,,0,0,0,,110. E vós zombastes dele, a ponto de (tal zombaria) vos fazer esquecer da Minha Mensagem, posto que vos ocupáveis em rirdes deles.
-Dialogue: 0,0:12:01.03,0:12:15.63,Default,,0,0,0,,111. Sabei que hoje os recompenso por sua perseverança, e eles serão os ganhadores.
-Dialogue: 0,0:12:15.63,0:12:22.86,Default,,0,0,0,,112. Dirá: "Quantos anos haveis permanecido na terra?"
-Dialogue: 0,0:12:22.86,0:12:35.60,Default,,0,0,0,,113. Responderão: "Permanecemos um dia ou uma parte de um dia. Interrogai, pois, os encarregados dos cômputos."
-Dialogue: 0,0:12:35.60,0:12:49.33,Default,,0,0,0,,114. Dirá: "Não permanecestes senão muito pouco; se vós soubésseis!"
-Dialogue: 0,0:12:49.33,0:13:10.20,Default,,0,0,0,,115. "Pensais, porventura, que vos criamos por diversão e que jamais retornareis a Nós?"
-Dialogue: 0,0:13:10.20,0:13:26.43,Default,,0,0,0,,116. Exaltado seja Deus, Verdadeiro, Soberano! Não há mais divindade além d'Ele, Senhor do honorável Trono!
-Dialogue: 0,0:13:26.43,0:13:48.10,Default,,0,0,0,,117. Quem invocar outra divindade junto a Deus, sem prova para isso, saiba que a sua prestação de contas incumbirá só ao seu Senhor. Sabei que os incrédulos jamais prosperarão.
-Dialogue: 0,0:13:48.10,0:13:59.30,Default,,0,0,0,, 118. E dize (ó Mohammad): "Ó Senhor meu, concede-me perdão e misericórdia, porque Tu és o melhor dos misericordiosos!"
-Dialogue: 0,0:13:59.46,0:14:07.13,Default,,0,0,0,,[Deus é o Maior]
-Dialogue: 0,0:14:07.13,0:14:09.13,Default,,0,0,0,,
+Dialogue: 0,0:00:23.78,0:00:29.99,Default,,0,0,0,,[Deus é o Maior]
+Dialogue: 0,0:00:38.84,0:00:45.05,Default,,0,0,0,,[1:2] Louvado seja Deus, Senhor do Universo,
+Dialogue: 0,0:00:45.05,0:00:50.21,Default,,0,0,0,,[1:3] O Clemente, o Misericordioso,
+Dialogue: 0,0:00:50.21,0:00:54.94,Default,,0,0,0,,[1:4] Soberano do Dia do Juízo.
+Dialogue: 0,0:00:54.94,0:01:01.36,Default,,0,0,0,,[1:5] Só a Ti adoramos e só de Ti imploramos ajuda!
+Dialogue: 0,0:01:01.36,0:01:06.73,Default,,0,0,0,,[1:6] Guia-nos à senda reta,
+Dialogue: 0,0:01:06.73,0:01:23.47,Default,,0,0,0,,[1:7] À senda dos que agraciaste, não à dos abominados, nem à dos extraviados.
+Dialogue: 0,0:01:23.47,0:01:28.94,Default,,0,0,0,,[Amém]
+Dialogue: 0,0:01:28.94,0:01:33.78,Default,,0,0,0,,1. É certo que prosperarão os crentes,
+Dialogue: 0,0:01:33.78,0:01:40.84,Default,,0,0,0,,2. Que são humildes em suas orações.
+Dialogue: 0,0:01:40.84,0:01:47.05,Default,,0,0,0,,3. Que desdenham a vaidade,
+Dialogue: 0,0:01:47.05,0:01:53.36,Default,,0,0,0,,4. Que são ativos em pagar o zakat.
+Dialogue: 0,0:01:53.36,0:01:59.99,Default,,0,0,0,,5. Que observam a castidade,
+Dialogue: 0,0:01:59.99,0:02:21.15,Default,,0,0,0,,6. Exceto para com os seus cônjuges ou cativas – nisso não serão reprovados.
+Dialogue: 0,0:02:21.15,0:02:32.42,Default,,0,0,0,,7. Mas aqueles que se excederem nisso serão os transgressores.
+Dialogue: 0,0:02:32.42,0:02:40.21,Default,,0,0,0,,8. Os que respeitarem suas obrigações e seus pactos,
+Dialogue: 0,0:02:40.21,0:02:47.78,Default,,0,0,0,,9. E que observarem as suas orações,
+Dialogue: 0,0:02:47.78,0:02:54.52,Default,,0,0,0,,10. Estes serão os herdeiros.
+Dialogue: 0,0:02:54.52,0:03:03.57,Default,,0,0,0,,11. Herdarão o Paraíso, onde morarão eternamente.
+Dialogue: 0,0:03:03.57,0:03:14.94,Default,,0,0,0,,12. Criamos o homem da essência do barro.
+Dialogue: 0,0:03:14.94,0:03:24.21,Default,,0,0,0,,13. Em seguida, fizemo-lo uma gota de esperma, que inserimos em um lugar seguro.
+Dialogue: 0,0:03:24.21,0:03:51.78,Default,,0,0,0,,14. Então, convertemos a gota de esperma em algo que se agarra, transformamos esse algo em feto e convertemos o feto em ossos; depois, revestimos os ossos de carne; então o desenvolvemos em outra criatura. Bendito seja Deus, Criador por excelência.
+Dialogue: 0,0:03:51.78,0:04:00.10,Default,,0,0,0,,15. Então morrereis, indubitavelmente.
+Dialogue: 0,0:04:00.10,0:04:07.47,Default,,0,0,0,,16. Depois sereis ressuscitados, no Dia da Ressurreição.
+Dialogue: 0,0:04:07.47,0:04:21.26,Default,,0,0,0,,17. E por cima de vós criamos sete firmamentos em estratos, e não descuramos da Nossa criação.
+Dialogue: 0,0:04:21.26,0:04:42.00,Default,,0,0,0,,18. E fazemos descer, proporcionalmente, água do céu e a armazenamos na terra; mas, se quiséssemos, poderíamos fazê-la desaparecer.
+Dialogue: 0,0:04:42.00,0:05:06.31,Default,,0,0,0,,19. E, mediante ela, criamos, para vós, jardins de tamareiras e videiras, dos quais obtendes abundantes frutos, de que vos alimentais.
+Dialogue: 0,0:05:06.31,0:05:23.78,Default,,0,0,0,,20. E vos criamos a árvore, que brota no monte Sinai, a qual propicia o azeite, que consiste num condimento para os consumidores.
+Dialogue: 0,0:05:23.78,0:05:43.15,Default,,0,0,0,,21. Tendes (nas femeas do) gado um instrutivo exemplo: Damos-vos de beber do (leite) que contêm as suas glândulas; obtendes delas muitos benefícios e delas vos alimentais.
+Dialogue: 0,0:05:43.15,0:05:49.26,Default,,0,0,0,,22. E sobre eles (os animais) sois transportados, da mesma maneira como nos navios.
+Dialogue: 0,0:05:49.26,0:06:06.10,Default,,0,0,0,,23. Havíamos enviado Noé ao seu povo, ao qual disse: Ó povo meu, adorai a Deus, porque não tendes outro Deus além d'Ele! Não (O) temeis?
+Dialogue: 0,0:06:06.10,0:06:41.89,Default,,0,0,0,,24. Porém, os chefes incrédulos do seu povo disseram: Esse não é mais do que um homem como vós, que quer assegurar a sua superioridade (sobre vós). Se Deus quisesse, teria enviado anjos (por mensageiros). Jamais ouvimos tal coisa de nossos antepassados!
+Dialogue: 0,0:06:41.89,0:06:52.84,Default,,0,0,0,,25. "Não é mais do que um homem possesso! Porém, suportai-o temporariamente."
+Dialogue: 0,0:06:52.84,0:07:00.21,Default,,0,0,0,,26. Disse (Noé): "Ó Senhor meu, socorre-me, pois que me desmentem!"
+Dialogue: 0,0:07:00.21,0:07:43.47,Default,,0,0,0,,27. Então lhe revelamos: "Constrói uma arca sob a Nossa vigilância e segundo a Nossa revelação. E quando se cumprir o Nosso desígnio e a água jorrar das fontes, embarca nela um casal de cada espécie, juntamente com a tua família, exceto aquele sobre quem tenha sido pronunciada a sentença; e não intercedas junto a Mim em favor dos injustos, pois que serão afogados."
+Dialogue: 0,0:07:43.47,0:08:04.52,Default,,0,0,0,,28. "E quando estiveres embarcado na arca, junto àqueles que estão contigo, dize: Louvado seja Deus, que nos livrou dos injustos!"
+Dialogue: 0,0:08:04.52,0:08:18.84,Default,,0,0,0,,29. "E dize: 'Ó Senhor meu, desembarca-me em lugar abençoado, porque Tu és o melhor para (nos) desembarcar.'"
+Dialogue: 0,0:08:18.84,0:08:32.21,Default,,0,0,0,,30. Por certo, nisto há sinais (para os homens); deveras já os temos testado.
+Dialogue: 0,0:08:32.21,0:08:41.57,Default,,0,0,0,,31. Logo depois dele criamos outras gerações.
+Dialogue: 0,0:08:41.57,0:08:57.36,Default,,0,0,0,,32. E lhes enviamos um mensageiro, escolhido entre eles, (que lhes disse): "Adorai a Deus, porque não tereis outro Deus além d'Ele! Não (O) temeis?"
+Dialogue: 0,0:08:57.36,0:09:31.15,Default,,0,0,0,,33. Porém, os chefes incrédulos do seu povo, que negavam o comparecimento na Outra Vida e que agraciamos na vida terrena, disseram: "Este não é senão um homem como vós; come do mesmo que comeis e bebe do mesmo que bebeis."
+Dialogue: 0,0:09:31.15,0:09:43.26,Default,,0,0,0,,34. "E, se obedecerdes a um homem como vós, certamente sereis desventurados."
+Dialogue: 0,0:09:43.26,0:09:57.57,Default,,0,0,0,,35. Ele vos promete que, quando morrerdes e vos tiverdes convertido em pó e ossos, sereis ressuscitados?
+Dialogue: 0,0:09:57.57,0:10:03.57,Default,,0,0,0,,36. "Longe, muito longe, está o que vos é prometido!"
+Dialogue: 0,0:10:03.57,0:10:14.84,Default,,0,0,0,,37. "Não há mais vida do que esta, terrena! Morremos e vivemos e jamais seremos ressuscitados!"
+Dialogue: 0,0:10:14.84,0:10:25.47,Default,,0,0,0,,38. "Este não é mais do que um homem que forja mentiras acerca de Deus! Jamais creremos nele!"
+Dialogue: 0,0:10:25.47,0:10:32.84,Default,,0,0,0,,39. Disse (o profeta): "Ó Senhor meu, socorre-me, pois que me desmentem!"
+Dialogue: 0,0:10:32.84,0:10:40.42,Default,,0,0,0,,39. Disse (o profeta): "Ó Senhor meu, socorre-me, pois que me desmentem!"
+Dialogue: 0,0:10:40.42,0:10:48.73,Default,,0,0,0,,40. Disse-lhe (Deus): "Em pouco tempo se arrependerão."
+Dialogue: 0,0:10:48.73,0:11:02.21,Default,,0,0,0,,41. E o estrondo os fulminou, e os reduzimos a destroços (que a torrente carregou). Que pereça o povo injusto!
+Dialogue: 0,0:11:02.21,0:11:11.47,Default,,0,0,0,,42. Logo depois deles criamos outra geração.
+Dialogue: 0,0:11:11.47,0:11:19.68,Default,,0,0,0,,43. Nenhum povo pode adiantar ou retardar o seu destino.
+Dialogue: 0,0:11:19.68,0:11:49.89,Default,,0,0,0,,44. Então enviamos, sucessivamente, os Nossos mensageiros. Cada vez que um mensageiro chegava ao seu povo, este o desmentia. Então fizemos uns seguirem outros (no castigo), e fizemos deles exemplo (para outros povos). Que pereça o povo incrédulo!
+Dialogue: 0,0:11:49.89,0:12:01.78,Default,,0,0,0,,45. Então enviamos Moisés e seu irmão com os Nossos sinais e uma evidente autoridade,
+Dialogue: 0,0:12:01.78,0:12:11.26,Default,,0,0,0,,46. Ao Faraó e aos seus chefes, os quais se ensoberbeceram, mostrando-se pessoas arrogantes.
+Dialogue: 0,0:12:11.26,0:12:22.00,Default,,0,0,0,,47. E disseram: "Como havemos de crer em dois homens como nós, cujo povo nos está escravizado?"
+Dialogue: 0,0:12:22.00,0:12:28.73,Default,,0,0,0,,48. E os desmentiram; então foram aniquilados.
+Dialogue: 0,0:12:28.73,0:12:36.63,Default,,0,0,0,,49. Concedemos a Moisés o Livro, a fim de que se encaminhassem.
+Dialogue: 0,0:12:36.63,0:12:58.84,Default,,0,0,0,,50. E fizemos do filho de Maria e de sua mãe sinais, e os refugiamos em uma segura colina, provida de mananciais.
+Dialogue: 0,0:12:58.84,0:13:13.68,Default,,0,0,0,,51. Ó mensageiros, desfrutai de todas as dádivas e praticai o bem, porque sou Sabedor de tudo quanto fazeis!
+Dialogue: 0,0:13:13.68,0:13:28.42,Default,,0,0,0,,52. E sabei que esta vossa comunidade é única, e que Eu sou o vosso Senhor. Temei-Me, pois!
+Dialogue: 0,0:13:28.42,0:13:42.00,Default,,0,0,0,,53. Porém, os povos se dividiram em diferentes seitas, e cada seita se satisfazia com a sua.
+Dialogue: 0,0:13:42.00,0:13:48.52,Default,,0,0,0,,54. Deixa-os entregues a seus extravios, até certo tempo.
+Dialogue: 0,0:13:48.52,0:14:01.05,Default,,0,0,0,,55. Pensam, acaso, que com os bens e filhos que lhes concedemos,
+Dialogue: 0,0:14:01.05,0:14:12.21,Default,,0,0,0,,56. Aceleramos-lhes as mercês? Qual! De nada se apercebem!
+Dialogue: 0,0:14:12.21,0:14:22.73,Default,,0,0,0,,57. Quanto àqueles que são reverentes, por temor ao seu Senhor;
+Dialogue: 0,0:14:22.73,0:14:30.73,Default,,0,0,0,,58. Que crêem nos versículos do seu Senhor;
+Dialogue: 0,0:14:30.73,0:14:38.63,Default,,0,0,0,,59. Que não atribuem parceiros ao seu Senhor;
+Dialogue: 0,0:14:38.63,0:14:56.52,Default,,0,0,0,,60. Que dão o que devem dar, com os corações cheios de temor, porque retornarão ao seu Senhor,
+Dialogue: 0,0:14:56.52,0:15:08.21,Default,,0,0,0,,61. Estes apressam-se em praticar boas ações; tais serão os primeiros contemplados.
+Dialogue: 0,0:15:08.21,0:15:22.52,Default,,0,0,0,,62. Jamais imporemos a uma alma uma carga superior às suas forças, pois possuímos o Livro, que proclama a justiça e, assim, não serão enganados.
+Dialogue: 0,0:15:22.52,0:15:37.26,Default,,0,0,0,,63. Porém, com respeito a isso, seus corações estão indecisos e, ademais, continuarão a cometer outros atos, além desse.
+Dialogue: 0,0:15:37.26,0:15:50.31,Default,,0,0,0,,64. (Isso) até o momento em que castiguemos os opulentos, dentre eles; então, ei-los que irão gemer!
+Dialogue: 0,0:15:50.31,0:16:02.21,Default,,0,0,0,,65. Ser-lhes-á dito: "Não protesteis, porque hoje não sereis socorridos por Nós,"
+Dialogue: 0,0:16:02.21,0:16:16.42,Default,,0,0,0,,66. "Porque foram-vos recitados os Meus versículos; contudo, lhes voltastes as costas,"
+Dialogue: 0,0:16:16.42,0:16:23.57,Default,,0,0,0,,67. "Com ensoberbecimento; passáveis noitadas difamando (o Alcorão)."
+Dialogue: 0,0:16:23.57,0:16:37.15,Default,,0,0,0,,68. Porventura, não refletem nas palavras, ou lhes chegou algo que não havia chegado aos seus antepassados?
+Dialogue: 0,0:16:37.15,0:16:45.26,Default,,0,0,0,,69. Ou não conhecem seu Mensageiro, e por isso o negam?
+Dialogue: 0,0:16:45.26,0:17:00.21,Default,,0,0,0,,70. Ou dizem: "Ele está possesso!" Não! Ele lhes trouxe a verdade, embora à maioria desgostasse a verdade.
+Dialogue: 0,0:17:00.21,0:17:24.21,Default,,0,0,0,,71. E se a verdade tivesse satisfeito os seus interesses, os céus e a terra, com tudo quanto encerram, transformar-se-iam num caos. Ao contrário! Enviamos-lhes a Mensagem e assim mesmo a desdenharam.
+Dialogue: 0,0:17:24.21,0:17:36.63,Default,,0,0,0,,72. Exiges-lhes, acaso, por isso, alguma retribuição? Saibam que a retribuição do teu Senhor é preferível, porque Ele é o melhor dos agraciadores.
+Dialogue: 0,0:17:36.63,0:17:45.05,Default,,0,0,0,,73. É verdade que tu procuras convocá-los à senda reta.
+Dialogue: 0,0:17:45.05,0:17:55.47,Default,,0,0,0,,74. Porém, certamente, aqueles que não crêem na Outra Vida desviam- se da senda.
+Dialogue: 0,0:17:55.47,0:18:10.84,Default,,0,0,0,,75. Mas se Nos apiedarmos deles e os libertarmos da adversidade que os aflige, persistirão, vacilantes, na sua transgressão.
+Dialogue: 0,0:18:10.84,0:18:22.63,Default,,0,0,0,,76. Castigamo-los; porém, não se submeteram ao seu Senhor, nem se humilharam,
+Dialogue: 0,0:18:22.63,0:18:46.00,Default,,0,0,0,,77. Até que lhes abrimos uma porta para um severíssimo castigo; e ei- los que ficaram desesperados!
+Dialogue: 0,0:18:46.00,0:19:00.94,Default,,0,0,0,,78. Ele foi Quem vos criou o ouvido, a vista e o coração. Quão pouco Lhe agradeceis!
+Dialogue: 0,0:19:00.94,0:19:09.05,Default,,0,0,0,,79. Ele é Quem vos multiplica, na terra, e sereis congregados ante Ele.
+Dialogue: 0,0:19:09.05,0:19:23.89,Default,,0,0,0,,80. E Ele é Quem dá a vida e a morte. Só a Ele pertence a alternação da noite e do dia; não raciocinais?
+Dialogue: 0,0:19:23.89,0:19:30.52,Default,,0,0,0,,81. Ao contrário, dizem o mesmo que diziam os seus antepassados:
+Dialogue: 0,0:19:30.52,0:19:43.78,Default,,0,0,0,,82. "Porventura, quando morrermos e nos tivermos convertido em ossos e pó, seremos ressuscitados?"
+Dialogue: 0,0:19:43.78,0:20:02.10,Default,,0,0,0,,83. "Havia-nos sido prometido o mesmo, tanto a nós como aos nossos antepassados; porém, isso não são mais do que fábulas dos primitivos."
+Dialogue: 0,0:20:02.10,0:20:14.10,Default,,0,0,0,,84. Pergunta-lhes: "A quem pertence a terra e tudo quanto nela existe? Dizei-o, se o sabeis!"
+Dialogue: 0,0:20:14.10,0:20:25.36,Default,,0,0,0,,85. Responderão: "A Deus!" Dize-lhes: "Então, não raciocinais?"
+Dialogue: 0,0:20:25.36,0:20:34.31,Default,,0,0,0,,86. Pergunta-lhes: "Quem é o Senhor dos sete céus e o Senhor do Trono Supremo?"
+Dialogue: 0,0:20:34.31,0:20:44.21,Default,,0,0,0,,87. Responderão: "Deus!" Pergunta-lhes mais: "Então, não temeis (a Deus)?"
+Dialogue: 0,0:20:44.21,0:21:01.78,Default,,0,0,0,,88. Pergunta-lhes, ainda: "Quem tem em seu poder a soberania de todas as coisas? Que protege e de ninguém necessita proteção? (Respondei) se sabeis!"
+Dialogue: 0,0:21:01.78,0:21:11.68,Default,,0,0,0,,89. Responderão: "Deus!" Dize-lhes: "Como, então, vos deixais enganar?"
+Dialogue: 0,0:21:11.68,0:21:20.84,Default,,0,0,0,,90. Nós trazemos-lhes a verdade; porém, sem dúvida que são farsantes!
+Dialogue: 0,0:21:20.84,0:21:48.00,Default,,0,0,0,,91. Deus não teve filho algum, nem jamais nenhum outro Deus compartilhou com Ele a divindade! Porque se assim fosse, cada Deus ter-se-ia apropriado da sua criação e teriam prevalecido uns sobre os outros. Glorificado seja Deus de tudo quanto descrevem!
+Dialogue: 0,0:21:48.00,0:21:59.57,Default,,0,0,0,,92. Possuidor do desconhecido e do conhecido! Exaltado seja (Deus), de tudo quanto Lhe atribuem!
+Dialogue: 0,0:21:59.57,0:22:08.52,Default,,0,0,0,,93. Dize: "Ó Senhor meu, se me fizeres ver (em vida) aquilo quanto ao quê são admoestados..."
+Dialogue: 0,0:22:08.52,0:22:15.26,Default,,0,0,0,,94. "Ó Senhor meu, não me contes entre os injustos!"
+Dialogue: 0,0:22:15.26,0:22:25.89,Default,,0,0,0,,95. E por certo, podemos mostrar-te o que lhes temos prometido.
+Dialogue: 0,0:22:25.89,0:22:36.42,Default,,0,0,0,,96. Retribui o mal com o que é melhor; Nós sabemos melhor do que ninguém o que dizem.
+Dialogue: 0,0:22:36.42,0:22:42.00,Default,,0,0,0,,97. E dize: "Ó Senhor meu, em Ti me amparo contra as incitações dos demônios!"
+Dialogue: 0,0:22:42.00,0:22:49.57,Default,,0,0,0,,98. "E em Ti me amparo, ó Senhor meu, para que não se aproximem (de mim)."
+Dialogue: 0,0:22:49.68,0:23:01.78,Default,,0,0,0,,99. (Quanto a eles, seguirão sendo idólatras) até que, quando a morte surpreender algum deles, este dirá: "Ó Senhor meu, manda-me de volta (à terra),"
+Dialogue: 0,0:23:01.89,0:23:31.47,Default,,0,0,0,,100. "A fim de eu praticar o bem que negligenciei!" Pois sim! Tal será a frase que dirá! E ante eles haverá uma barreira, que os deterá até ao dia em que forem ressuscitados.
+Dialogue: 0,0:23:31.47,0:23:52.31,Default,,0,0,0,,101. Porém, quando for soada a trombeta, nesse dia não haverá mais linhagem entre eles, nem se consultarão entre si.
+Dialogue: 0,0:23:52.21,0:24:03.26,Default,,0,0,0,,102. Quanto àqueles cujas ações pesarem mais serão os bem- aventurados.
+Dialogue: 0,0:24:03.36,0:24:25.36,Default,,0,0,0,,103. Em troca, aqueles cujas (boas) ações forem leves serão desventurados e permanecerão eternamente no inferno.
+Dialogue: 0,0:24:25.47,0:24:39.57,Default,,0,0,0,,104. O fogo abrasará os seus rostos, e estarão com os lábios distendidos.
+Dialogue: 0,0:24:39.68,0:24:49.78,Default,,0,0,0,,105. "Acaso, não vos foram recitados os Meus versículos e vós os desmentistes?"
+Dialogue: 0,0:24:49.78,0:25:05.47,Default,,0,0,0,,106. Exclamarão: "Ó Senhor nosso, nossos desejos nos dominaram, e fomos um povo extraviado!"
+Dialogue: 0,0:25:05.47,0:25:26.73,Default,,0,0,0,,107. "Ó Senhor nosso, tira-nos daqui! E se reincidirmos, então seremos injustos!"
+Dialogue: 0,0:25:26.73,0:25:33.26,Default,,0,0,0,,108. Ele lhes dirá: "Entrai aí e não Me dirijais a palavra."
+Dialogue: 0,0:25:33.26,0:26:00.94,Default,,0,0,0,,109. Houve uma parte dos Meus servos que dizia: "Ó Senhor nosso, cremos! Perdoa-nos, pois, e tem piedade de nós, porque Tu és o melhor dos misericordiosos!"
+Dialogue: 0,0:26:00.94,0:26:15.57,Default,,0,0,0,,110. E vós zombastes deles, a ponto de (tal zombaria) vos fazer esquecer da Minha Mensagem, posto que vos ocupáveis em rirdes deles.
+Dialogue: 0,0:26:15.57,0:26:29.47,Default,,0,0,0,,111. Sabei que hoje os recompenso por sua perseverança, e eles serão os ganhadores.
+Dialogue: 0,0:26:29.57,0:26:34.63,Default,,0,0,0,,112. Dirá: "Quantos anos haveis permanecido na terra?"
+Dialogue: 0,0:26:34.63,0:26:47.05,Default,,0,0,0,,113. Responderão: "Permanecemos um dia ou uma parte de um dia. Interrogai, pois, os encarregados dos cômputos."
+Dialogue: 0,0:26:47.05,0:26:56.73,Default,,0,0,0,,114. Dirá: "Não permanecestes senão muito pouco; se vós soubésseis!"
+Dialogue: 0,0:26:56.73,0:27:18.42,Default,,0,0,0,,115. "Pensais, porventura, que vos criamos por diversão e que jamais retornareis a Nós?"
+Dialogue: 0,0:27:18.42,0:27:40.31,Default,,0,0,0,,116. Exaltado seja Deus, Verdadeiro, Soberano! Não há mais divindade além d'Ele, Senhor do honorável Trono!
+Dialogue: 0,0:27:40.31,0:27:58.42,Default,,0,0,0,,117. Quem invocar outra divindade junto com Deus, sem prova para isso, saiba que a sua prestação de contas incumbirá só ao seu Senhor. Sabei que os incrédulos jamais prosperarão.
+Dialogue: 0,0:27:58.42,0:28:07.89,Default,,0,0,0,,118. E dize: "Ó Senhor meu, concede-me perdão e misericórdia, porque Tu és o melhor dos misericordiosos!"
+Dialogue: 0,0:28:07.89,0:28:13.89,Default,,0,0,0,,[Deus é o Maior]
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
