@@ -6,24 +6,24 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: ../../../Movies/#مشاري_راشد_العفاسي - سورة الأنبياء من صلاة التراويح لعام 1436هـ من مسجد الراشد-u5tgMYjZGxY.mp4
-Video File: ../../../Movies/#مشاري_راشد_العفاسي - سورة الأنبياء من صلاة التراويح لعام 1436هـ من مسجد الراشد-u5tgMYjZGxY.mp4
+Audio File: ../../../Movies/Quran/021.hd.mp4
+Video File: ../../../Movies/Quran/021.hd.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 3.000000
+Video Zoom Percent: 1.000000
 Active Line: 10
-Video Position: 14931
+Video Position: 8754
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Other,Roboto Slab,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
+Style: Default,Helvetica,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,12,0,2,20,20,20,1
+Style: Other,Roboto Slab,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.6,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
