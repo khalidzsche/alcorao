@@ -6,254 +6,258 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
-Export Encoding: Unicode (UTF-8)
-Audio File: ../../../Movies/سورة الشعراء مشاري راشد العفاسي-QwVQnuSeqbY.mp4
-Video File: ../../../Movies/سورة الشعراء مشاري راشد العفاسي-QwVQnuSeqbY.mp4
+Last Style Storage: Default
+Audio File: ../../../Movies/Quran/026.v2.hd.mp4
+Video File: ../../../Movies/Quran/026.v2.hd.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.500000
+Video Zoom Percent: 0.875000
+Video Position: 34309
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Helvetica,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,10,0,2,10,10,30,1
 Style: Other,Roboto Slab,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.32,0:00:12.56,Default,,0,0,0,,1. Ta, Sin, Mim.
-Dialogue: 0,0:00:12.56,0:00:19.20,Default,,0,0,0,,2. Voici les versets du Livre explicite.
-Dialogue: 0,0:00:19.20,0:00:27.92,Default,,0,0,0,,3. Il se peut que tu te consumes de chagrin parce qu'ils ne sont pas croyants!
-Dialogue: 0,0:00:27.92,0:00:42.72,Default,,0,0,0,,4. Si Nous voulions, Nous ferions descendre du ciel sur eux un prodige devant lequel leurs nuques resteront courbées.
-Dialogue: 0,0:00:42.72,0:00:55.84,Default,,0,0,0,,5. Aucun nouveau rappel ne leur vient du Tout Miséricordieux sans qu'ils ne l'esquivent.
-Dialogue: 0,0:00:55.84,0:01:07.68,Default,,0,0,0,,6. Et ils ont traité de mensonge [tout ce qui leur vient du Seigneur]. Il leur viendra bientôt des nouvelles de ce dont ils se raillent.
-Dialogue: 0,0:01:07.68,0:01:20.08,Default,,0,0,0,,7. N'ont-ils pas observé la terre, combien Nous y avons fait pousser de couples généreux de toutes sortes?
-Dialogue: 0,0:01:20.08,0:01:30.24,Default,,0,0,0,,8. Voilà bien là une preuve! Et la plupart d'entre eux ne croient pas.
-Dialogue: 0,0:01:30.24,0:01:36.88,Default,,0,0,0,,9. Et ton Seigneur est en vérité Lui le Tout Puissant, le Très Miséricordieux.
-Dialogue: 0,0:01:36.88,0:01:48.00,Default,,0,0,0,,10. Et lorsque ton Seigneur appela Moïse : "Rends-toi auprès du peuple injuste,
-Dialogue: 0,0:01:48.00,0:01:55.92,Default,,0,0,0,,11. [auprès du] peuple de Pharaon"; ne craindront-ils pas (Allah)?
-Dialogue: 0,0:01:55.92,0:02:05.04,Default,,0,0,0,,12. Il dit : "Seigneur, je crains qu'ils ne me traitent de menteur;
-Dialogue: 0,0:02:05.04,0:02:15.68,Default,,0,0,0,,13. que ma poitrine ne se serre, et que ma langue ne soit embarrassée : Mande donc Aaron.
-Dialogue: 0,0:02:15.68,0:02:25.68,Default,,0,0,0,,14. Ils ont un crime à me reprocher; je crains donc qu'ils ne me tuent" .
-Dialogue: 0,0:02:25.68,0:02:37.92,Default,,0,0,0,,15. Mais [Allah lui] dit : "Jamais! Allez tous deux avec Nos prodiges. Nous resterons avec vous et Nous écouterons.
-Dialogue: 0,0:02:37.92,0:02:49.60,Default,,0,0,0,,16. Rendez-vous donc tous deux auprès de Pharaon, puis dites : "Nous sommes les messagers du Seigneur de l'univers,
-Dialogue: 0,0:02:49.60,0:03:00.08,Default,,0,0,0,,17. pour que tu renvoies les Enfants d'Israël avec nous".
-Dialogue: 0,0:03:00.08,0:03:11.52,Default,,0,0,0,,18. "Ne t'avons-nous pas, dit Pharaon, élevé chez nous tout enfant? Et n'as-tu pas demeuré parmi nous des années de ta vie?
-Dialogue: 0,0:03:11.52,0:03:22.00,Default,,0,0,0,,19. Puis tu as commis le méfait que tu as fait, en dépit de toute reconnaissance".
-Dialogue: 0,0:03:22.00,0:03:34.56,Default,,0,0,0,,20. "Je l'ai fait, dit Moïse, alors que j'étais encore du nombre des égarés.
-Dialogue: 0,0:03:34.56,0:03:48.48,Default,,0,0,0,,21. Je me suis donc enfui de vous quand j'ai eu peur de vous : puis, mon Seigneur m'a donné la sagesse et m'a désigné parmi Ses messagers.
-Dialogue: 0,0:03:48.48,0:04:02.32,Default,,0,0,0,,22. Est-ce là un bienfait de ta part [que tu me rappelles] avec reproche, alors que tu as asservi les Enfants d'Israël? "
-Dialogue: 0,0:04:02.32,0:04:09.04,Default,,0,0,0,,23. "Et qu'est-ce que le Seigneur de l'univers? " dit Pharaon.
-Dialogue: 0,0:04:09.04,0:04:23.68,Default,,0,0,0,,24. "Le Seigneur des cieux et de la terre et de ce qui existe entre eux, dit [Moïse], si seulement vous pouviez en être convaincus! "
-Dialogue: 0,0:04:23.68,0:04:32.24,Default,,0,0,0,,25. [Pharaon] dit à ceux qui l'entouraient : "N'entendez-vous pas? "
-Dialogue: 0,0:04:32.24,0:04:42.40,Default,,0,0,0,,26. [Moïse] continue : "... Votre Seigneur, et le Seigneur de vos plus anciens ancêtres".
-Dialogue: 0,0:04:42.40,0:04:52.40,Default,,0,0,0,,27. "Vraiment, dit [Pharaon], votre messager qui vous a été envoyé, est un fou".
-Dialogue: 0,0:04:52.40,0:05:05.36,Default,,0,0,0,,28. [Moïse] ajouta : "... Le Seigneur du Levant et du Couchant et de ce qui est entre les deux; si seulement vous compreniez! "
-Dialogue: 0,0:05:05.36,0:05:16.88,Default,,0,0,0,,29. "Si tu adoptes, dit [Pharaon], une autre divinité que moi, je te mettrai parmi les prisonniers".
-Dialogue: 0,0:05:16.88,0:05:24.16,Default,,0,0,0,,30. "Et même si je t'apportais, dit [Moïse], une chose (une preuve) évidente?
-Dialogue: 0,0:05:24.16,0:05:33.36,Default,,0,0,0,,31. "Apporte-la, dit [Pharaon], si tu es du nombre des véridiques".
-Dialogue: 0,0:05:33.36,0:05:42.32,Default,,0,0,0,,32. [Moïse] jeta donc son bâton et le voilà devenu un serpent manifeste.
-Dialogue: 0,0:05:42.32,0:05:52.88,Default,,0,0,0,,33. Et il tira sa main et voilà qu'elle était blanche (étincelante) à ceux qui regardaient.
-Dialogue: 0,0:05:52.88,0:06:02.08,Default,,0,0,0,,34. [Pharaon] dit aux notables autour de lui : "Voilà en vérité un magicien savant.
-Dialogue: 0,0:06:02.08,0:06:14.88,Default,,0,0,0,,35. Il veut par sa magie vous expulser de votre terre. que commandez-vous? "
-Dialogue: 0,0:06:14.88,0:06:25.84,Default,,0,0,0,,36. Ils dirent : "Remets-les à plus tard, [lui] et son frère, et envoie des gens dans les villes, pour rassembler,
-Dialogue: 0,0:06:26.00,0:06:32.96,Default,,0,0,0,,37. et t'amener tout grand magicien savant".
-Dialogue: 0,0:06:32.96,0:06:42.16,Default,,0,0,0,,38. Les magiciens furent donc réunis en rendez-vous au jour convenu.
-Dialogue: 0,0:06:42.16,0:06:50.24,Default,,0,0,0,,39. Et il fut dit aux gens : "Est-ce que vous allez vous réunir,
-Dialogue: 0,0:06:50.24,0:06:59.76,Default,,0,0,0,,40. afin que nous suivions les magiciens, si ce sont eux les vainqueurs? "
-Dialogue: 0,0:06:59.76,0:07:15.60,Default,,0,0,0,,41. Puis, lorsque les magiciens arrivèrent, ils dirent à Pharaon : "Y aura-t-il vraiment une récompense pour nous, si nous sommes les vainqueurs? "
-Dialogue: 0,0:07:15.60,0:07:24.40,Default,,0,0,0,,42. Il dit : "Oui, bien sûr, vous serez alors parmi mes proches!
-Dialogue: 0,0:07:24.40,0:07:37.20,Default,,0,0,0,,43. Moïse leur dit : "Jetez ce que vous avez à jeter".
-Dialogue: 0,0:07:37.20,0:07:50.88,Default,,0,0,0,,44. Ils jetèrent donc leurs cordes et leurs bâtons et dirent : "Par la puissance de Pharaon! C'est nous qui serons les vainqueurs".
-Dialogue: 0,0:07:50.88,0:08:00.16,Default,,0,0,0,,45. Puis Moïse jeta son bâton, et voilà qu'il happait ce qu'ils avaient fabriqué.
-Dialogue: 0,0:08:00.16,0:08:05.28,Default,,0,0,0,,46. Alors les magiciens tombèrent prosternés,
-Dialogue: 0,0:08:05.28,0:08:13.20,Default,,0,0,0,,47. disant : "Nous croyons au Seigneur de l'univers,
-Dialogue: 0,0:08:13.20,0:08:17.92,Default,,0,0,0,,48. Le Seigneur de Moïse et d'Aaron".
-Dialogue: 0,0:08:17.92,0:08:48.56,Default,,0,0,0,,49. [Pharaon] dit : "Avez-vous cru en lui avant que je ne vous le permette? En vérité, c'est lui votre chef, qui vous a enseigné la magie! Eh bien, vous saurez bientôt! Je vous couperai, sûrement, mains et jambes opposées, et vous crucifierai tous".
-Dialogue: 0,0:08:48.56,0:09:02.24,Default,,0,0,0,,50. Ils disent : "Il n'y a pas de mal! Car c'est vers notre Seigneur que nous retournerons.
-Dialogue: 0,0:09:02.24,0:09:18.96,Default,,0,0,0,,51. Nous convoitons que notre Seigneur nous pardonne nos fautes pour avoir été les premiers à croire".
-Dialogue: 0,0:09:18.96,0:09:33.44,Default,,0,0,0,,52. Et Nous révélâmes à Moïse [ceci]: "Pars de nuit avec Mes serviteurs, car vous serez poursuivis".
-Dialogue: 0,0:09:33.44,0:09:42.64,Default,,0,0,0,,53. Puis, Pharaon envoya des rassembleurs [dire] dans les villes :
-Dialogue: 0,0:09:42.64,0:09:52.96,Default,,0,0,0,,54. "Ce sont, en fait, une bande peu nombreuse,
-Dialogue: 0,0:09:52.96,0:10:01.36,Default,,0,0,0,,55. mais ils nous irritent,
-Dialogue: 0,0:10:01.36,0:10:16.32,Default,,0,0,0,,56. tandis que nous sommes tous vigilants".
-Dialogue: 0,0:10:16.32,0:10:25.92,Default,,0,0,0,,57. Ainsi, Nous les fîmes donc sortir des jardins, des sources,
-Dialogue: 0,0:10:25.92,0:10:32.96,Default,,0,0,0,,58. des trésors et d'un lieu de séjour agréable.
-Dialogue: 0,0:10:32.96,0:10:42.80,Default,,0,0,0,,59. Il en fut ainsi! Et Nous les donnâmes en héritage aux enfants d'Israël.
-Dialogue: 0,0:10:42.80,0:10:49.92,Default,,0,0,0,,60. Au lever du soleil, ils les poursuivirent.
-Dialogue: 0,0:10:49.92,0:11:04.80,Default,,0,0,0,,61. Puis, quand les deux partis se virent, les compagnons de Moïse dirent : "Nous allons être rejoints".
-Dialogue: 0,0:11:04.80,0:11:16.48,Default,,0,0,0,,62. Il dit : "Jamais, car j'ai avec moi mon Seigneur qui va me guider".
-Dialogue: 0,0:11:16.48,0:11:34.08,Default,,0,0,0,,63. Alors Nous révélâmes à Moïse : "Frappe la mer de ton bâton ". Elle se fendit alors, et chaque versant fut comme une énorme montagne.
-Dialogue: 0,0:11:34.08,0:11:41.04,Default,,0,0,0,,64. Nous fîmes approcher les autres [Pharaon et son peuple].
-Dialogue: 0,0:11:41.04,0:11:51.44,Default,,0,0,0,,65. Et Nous sauvâmes Moïse et tous ceux qui étaient avec lui;
-Dialogue: 0,0:11:51.44,0:11:56.88,Default,,0,0,0,,66. ensuite Nous noyâmes les autres.
-Dialogue: 0,0:11:56.88,0:12:08.48,Default,,0,0,0,,67. Voilà bien là un prodige, mais la plupart d'entre eux ne croient pas.
-Dialogue: 0,0:12:08.48,0:12:18.16,Default,,0,0,0,,68. Et ton Seigneur, c'est en vérité Lui le Tout Puissant, le Très Miséricordieux.
-Dialogue: 0,0:12:18.16,0:12:23.84,Default,,0,0,0,,69. Et récite-leur la nouvelle d'Abraham :
-Dialogue: 0,0:12:23.84,0:12:31.68,Default,,0,0,0,,70. Quand il dit à son père et à son peuple : "Qu'adorez-vous? "
-Dialogue: 0,0:12:31.68,0:12:40.08,Default,,0,0,0,,71. Ils dirent : "Nous adorons des idoles et nous leurs restons attachés".
-Dialogue: 0,0:12:40.08,0:12:46.96,Default,,0,0,0,,72. Il dit : "Vous entendent-elles lorsque vous [les] appelez?
-Dialogue: 0,0:12:46.96,0:12:53.36,Default,,0,0,0,,73. ou vous profitent-elles? ou vous nuisent-elles? "
-Dialogue: 0,0:12:53.36,0:13:04.08,Default,,0,0,0,,74. Ils dirent : "Non! mais nous avons trouvé nos ancêtres agissant ainsi".
-Dialogue: 0,0:13:04.08,0:13:11.60,Default,,0,0,0,,75. Il dit : "Que dites-vous de ce que vous adoriez...?
-Dialogue: 0,0:13:11.60,0:13:20.32,Default,,0,0,0,,76. Vous et vos vieux ancêtres?
-Dialogue: 0,0:13:20.32,0:13:29.76,Default,,0,0,0,,77. Ils sont tous pour moi des ennemis sauf le Seigneur de l'univers,
-Dialogue: 0,0:13:29.76,0:13:35.76,Default,,0,0,0,,78. qui m'a créé, et c'est Lui qui me guide;
-Dialogue: 0,0:13:35.76,0:13:41.84,Default,,0,0,0,,79. et c'est Lui qui me nourrit et me donne à boire;
-Dialogue: 0,0:13:41.84,0:13:47.44,Default,,0,0,0,,80. et quand je suis malade, c'est Lui qui me guérit,
-Dialogue: 0,0:13:47.44,0:13:53.60,Default,,0,0,0,,81. et qui me fera mourir, puis me redonnera la vie,
-Dialogue: 0,0:13:53.60,0:14:05.20,Default,,0,0,0,,82. et c'est de Lui que je convoite le pardon de mes fautes le Jour de la Rétribution.
-Dialogue: 0,0:14:05.20,0:14:13.44,Default,,0,0,0,,83. Seigneur, accorde-moi sagesse (et savoir) et fais-moi rejoindre les gens de bien;
-Dialogue: 0,0:14:13.44,0:14:20.40,Default,,0,0,0,,84. fais que j'aie une mention honorable sur les langues de la postérité;
-Dialogue: 0,0:14:20.40,0:14:28.88,Default,,0,0,0,,85. et fais de moi l'un des héritiers du Jardin des délices.
-Dialogue: 0,0:14:28.88,0:14:41.52,Default,,0,0,0,,86. et pardonne à mon père : car il a été du nombre des égarés;
-Dialogue: 0,0:14:41.52,0:14:47.76,Default,,0,0,0,,87. et ne me couvre pas d'ignominie, le jour où l'on sera ressuscité,
-Dialogue: 0,0:14:47.76,0:14:55.04,Default,,0,0,0,,88. le jour où ni les biens, ni les enfants ne seront d'aucune utilité,
-Dialogue: 0,0:14:55.04,0:15:01.92,Default,,0,0,0,,89. sauf celui qui vient à Allah avec un coeur sain".
-Dialogue: 0,0:15:01.92,0:15:08.56,Default,,0,0,0,,90. On rapprochera alors le Paradis pour le pieux.
-Dialogue: 0,0:15:08.56,0:15:31.12,Default,,0,0,0,,91. et l'on exposera aux errants la Fournaise,
-Dialogue: 0,0:15:31.12,0:15:43.52,Default,,0,0,0,,90. On rapprochera alors le Paradis pour le pieux.
-Dialogue: 0,0:15:43.60,0:15:55.12,Default,,0,0,0,,91. et l'on exposera aux errants la Fournaise,
-Dialogue: 0,0:15:55.28,0:16:01.20,Default,,0,0,0,,90. On rapprochera alors le Paradis pour le pieux.
-Dialogue: 0,0:16:01.28,0:16:06.16,Default,,0,0,0,,91. et l'on exposera aux errants la Fournaise,
-Dialogue: 0,0:16:06.16,0:16:11.20,Default,,0,0,0,,92. et on leur dira : "Où sont ceux que vous adoriez,
-Dialogue: 0,0:16:11.20,0:16:22.72,Default,,0,0,0,,93. en dehors d'Allah? vous secourent-ils? ou se secourent-ils eux-mêmes? "
-Dialogue: 0,0:16:22.72,0:16:36.40,Default,,0,0,0,,94. Ils y seront donc jetés pêle-mêle, et les errants aussi,
-Dialogue: 0,0:16:36.40,0:16:40.96,Default,,0,0,0,,95. ainsi que toutes les légions d'Iblis.
-Dialogue: 0,0:16:40.96,0:16:45.60,Default,,0,0,0,,96. Ils diront, tout en s'y querellant :
-Dialogue: 0,0:16:45.60,0:16:52.48,Default,,0,0,0,,97. "Par Allah! Nous étions certes dans un égarement évident,
-Dialogue: 0,0:16:52.48,0:16:58.64,Default,,0,0,0,,98. quand nous faisions de vous les égaux du Seigneur de l'univers.
-Dialogue: 0,0:16:58.64,0:17:10.00,Default,,0,0,0,,99. Ce ne sont que les criminels qui nous ont égarés.
-Dialogue: 0,0:17:10.00,0:17:23.92,Default,,0,0,0,,100. Et nous n'avons pas d'intercesseurs,
-Dialogue: 0,0:17:24.16,0:17:27.60,Default,,0,0,0,,101. ni d'ami chaleureux.
-Dialogue: 0,0:17:27.68,0:17:30.80,Default,,0,0,0,,100. Et nous n'avons pas d'intercesseurs,
-Dialogue: 0,0:17:30.80,0:17:34.56,Default,,0,0,0,,101. ni d'ami chaleureux.
-Dialogue: 0,0:17:34.56,0:17:45.76,Default,,0,0,0,,102. Si un retour nous était possible, alors nous serions parmi les croyants! "
-Dialogue: 0,0:17:45.76,0:17:55.12,Default,,0,0,0,,103. Voilà bien là un signe; cependant, la plupart d'entre eux ne croient pas.
-Dialogue: 0,0:17:55.12,0:18:05.60,Default,,0,0,0,,104. Et ton Seigneur, c'est Lui vraiment le Puissant, le Très Miséricordieux.
-Dialogue: 0,0:18:05.60,0:18:10.48,Default,,0,0,0,,105. Le peuple de Noé traita de menteurs les Messagers,
-Dialogue: 0,0:18:10.48,0:18:16.64,Default,,0,0,0,,106. lorsque Noé, leur frère (contribule), leur dit : "Ne craindrez-vous pas [Allah]?
-Dialogue: 0,0:18:16.64,0:18:23.04,Default,,0,0,0,,107. Je suis pour vous un messager digne de confiance.
-Dialogue: 0,0:18:23.04,0:18:27.36,Default,,0,0,0,,108. Craignez Allah donc et obéissez-moi.
-Dialogue: 0,0:18:27.36,0:18:39.36,Default,,0,0,0,,109. Et je ne vous demande pas de salaire pour cela; mon salaire n'incombe qu'au Seigneur de l'univers.
-Dialogue: 0,0:18:39.36,0:18:45.52,Default,,0,0,0,,110. Craignez Allah donc, et obéissez-moi".
-Dialogue: 0,0:18:45.52,0:18:52.40,Default,,0,0,0,,111. Ils dirent : "Croirons-nous en toi, alors que ce sont les plus vils qui te suivent? "
-Dialogue: 0,0:18:52.40,0:18:58.88,Default,,0,0,0,,112. Il dit : "Je ne sais pas ce que ceux-là faisaient.
-Dialogue: 0,0:18:58.88,0:19:05.92,Default,,0,0,0,,113. Leur compte n'incombe qu'à mon Seigneur. Si seulement vous êtes conscients.
-Dialogue: 0,0:19:05.92,0:19:11.84,Default,,0,0,0,,114. Je ne suis pas celui qui repousse les croyants.
-Dialogue: 0,0:19:11.84,0:19:17.52,Default,,0,0,0,,115. Je ne suis qu'un avertisseur explicite".
-Dialogue: 0,0:19:17.52,0:19:28.00,Default,,0,0,0,,116. Ils dirent : "Si tu ne cesses pas, Noé, tu seras certainement du nombre des lapidés! "
-Dialogue: 0,0:19:28.00,0:19:34.24,Default,,0,0,0,,117. Il dit : "Ô mon Seigneur, mon peuple me traite de menteur.
-Dialogue: 0,0:19:34.24,0:19:45.68,Default,,0,0,0,,118. Tranche donc clairement entre eux et moi : et sauve-moi ainsi que ceux des croyants qui sont avec moi".
-Dialogue: 0,0:19:45.68,0:19:53.52,Default,,0,0,0,,119. Nous le sauvâmes donc, de même que ceux qui étaient avec lui dans l'arche, pleinement chargée.
-Dialogue: 0,0:19:53.52,0:20:00.24,Default,,0,0,0,,120. Et ensuite nous noyâmes le reste (les infidèles).
-Dialogue: 0,0:20:00.24,0:20:09.60,Default,,0,0,0,,121. Voilà bien là un signe. Cependant, la plupart d'entre eux ne croient pas.
-Dialogue: 0,0:20:09.60,0:20:15.68,Default,,0,0,0,,122. Et Ton Seigneur, c'est lui vraiment le Puissant! le Très Miséricordieux.
-Dialogue: 0,0:20:15.68,0:20:21.60,Default,,0,0,0,,123. Les Aad traitèrent de menteurs les Envoyés.
-Dialogue: 0,0:20:21.60,0:20:28.96,Default,,0,0,0,,124. Et quand Hud, leur frère (contribule), leur dit : "Ne craindrez-vous pas [Allah]? "
-Dialogue: 0,0:20:28.96,0:20:35.20,Default,,0,0,0,,125. Je suis pour vous un messager digne de confiance,
-Dialogue: 0,0:20:35.20,0:20:39.60,Default,,0,0,0,,126. Craignez Allah donc et obéissez-moi.
-Dialogue: 0,0:20:39.60,0:20:51.04,Default,,0,0,0,,127. Et je ne vous demande pas de salaire pour cela; mon salaire n'incombe qu'au Seigneur de l'univers.
-Dialogue: 0,0:20:51.04,0:20:58.40,Default,,0,0,0,,128. Bâtissez-vous par frivolité sur chaque colline un monument?
-Dialogue: 0,0:20:58.40,0:21:05.20,Default,,0,0,0,,129. Et édifiez-vous des châteaux comme si vous deviez demeurer éternellement?
-Dialogue: 0,0:21:05.20,0:21:11.60,Default,,0,0,0,,130. Et quand vous sévissez contre quelqu'un, vous le faites impitoyablement.
-Dialogue: 0,0:21:11.60,0:21:16.88,Default,,0,0,0,,131. Craignez Allah donc et obéissez-moi.
-Dialogue: 0,0:21:16.88,0:21:24.32,Default,,0,0,0,,132. Craignez Celui qui vous a pourvus de [toutes les bonnes choses] que vous connaissez,
-Dialogue: 0,0:21:24.32,0:21:31.36,Default,,0,0,0,,133. qui vous a pourvus de bestiaux et d'enfants,
-Dialogue: 0,0:21:31.36,0:21:37.36,Default,,0,0,0,,134. de jardins et de sources.
-Dialogue: 0,0:21:37.36,0:21:45.20,Default,,0,0,0,,135. Je crains pour vous le châtiment d'un Jour terrible.
-Dialogue: 0,0:21:45.20,0:21:57.12,Default,,0,0,0,,136. Ils dirent : "Que tu nous exhortes ou pas, cela nous est parfaitement égal!
-Dialogue: 0,0:21:57.12,0:22:04.16,Default,,0,0,0,,137. Ce ne sont là que des moeurs des anciens :
-Dialogue: 0,0:22:04.16,0:22:09.36,Default,,0,0,0,,138. Nous ne serons nullement châtiés".
-Dialogue: 0,0:22:09.36,0:22:23.36,Default,,0,0,0,,139. Ils le traitèrent donc de menteur. Et nous les fîmes périr. Voilà bien là un signe! Cependant, la plupart d'entre eux ne croient pas.
-Dialogue: 0,0:22:23.36,0:22:31.20,Default,,0,0,0,,140. Et Ton Seigneur, c'est Lui vraiment le Puissant, le Très Miséricordieux.
-Dialogue: 0,0:22:31.20,0:22:37.20,Default,,0,0,0,,141. Les Tamud traitèrent de menteurs les Messagers.
-Dialogue: 0,0:22:37.20,0:22:44.88,Default,,0,0,0,,142. Quand Salih, leur frère (contribule), leur dit : "Ne craindrez-vous pas [Allah]? "
-Dialogue: 0,0:22:44.88,0:22:50.72,Default,,0,0,0,,143. Je suis pour vous un messager digne de confiance.
-Dialogue: 0,0:22:50.72,0:22:55.76,Default,,0,0,0,,144. Craignez Allah donc et obéissez-moi.
-Dialogue: 0,0:22:55.76,0:23:08.16,Default,,0,0,0,,145. Je ne vous demande pas de salaire pour cela, mon salaire n'incombe qu'au Seigneur de l'univers.
-Dialogue: 0,0:23:08.16,0:23:15.60,Default,,0,0,0,,146. Vous laissera-t-on en sécurité dans votre présente condition?
-Dialogue: 0,0:23:15.60,0:23:21.68,Default,,0,0,0,,147. Au milieu de jardins, de sources,
-Dialogue: 0,0:23:21.68,0:23:27.76,Default,,0,0,0,,148. de cultures et de palmiers aux fruits digestes?
-Dialogue: 0,0:23:27.76,0:23:35.68,Default,,0,0,0,,149. Creusez-vous habilement des maisons dans les montagnes?
-Dialogue: 0,0:23:35.68,0:23:40.64,Default,,0,0,0,,150. Craignez Allah donc et obéissez-moi.
-Dialogue: 0,0:23:40.64,0:23:46.72,Default,,0,0,0,,151. N'obéissez pas à l'ordre des outranciers,
-Dialogue: 0,0:23:46.72,0:23:54.32,Default,,0,0,0,,152. qui sèment le désordre sur la terre et n'améliorent rien".
-Dialogue: 0,0:23:54.32,0:24:04.08,Default,,0,0,0,,153. Ils dirent : "Tu n'es qu'un ensorcelé.
-Dialogue: 0,0:24:04.08,0:24:17.44,Default,,0,0,0,,154. Tu n'es qu'un homme comme nous. Apporte donc un prodige, si tu es du nombre des véridiques".
-Dialogue: 0,0:24:17.44,0:24:27.68,Default,,0,0,0,,155. Il dit : "Voici une chamelle : à elle de boire un jour convenu, et à vous de boire un jour .
-Dialogue: 0,0:24:27.68,0:24:44.48,Default,,0,0,0,,156. Et ne lui infligez aucun mal, sinon le châtiment d'un jour terrible vous saisira".
-Dialogue: 0,0:24:44.48,0:24:50.24,Default,,0,0,0,,157. Mais ils la tuèrent Eh bien, ils eurent à regretter!
-Dialogue: 0,0:24:50.24,0:25:03.84,Default,,0,0,0,,158. Le châtiment, en effet, les saisit. Voilà bien là un prodige. Cependant, la plupart d'entre eux ne croient pas.
-Dialogue: 0,0:25:03.84,0:25:09.92,Default,,0,0,0,,159. Et ton Seigneur. c'est en vérité Lui le Tout-Puissant, le Très Miséricordieux.
-Dialogue: 0,0:25:09.92,0:25:15.84,Default,,0,0,0,,160. Le peuple de Lot traita de menteurs les Messagers,
-Dialogue: 0,0:25:15.84,0:25:22.88,Default,,0,0,0,,161. quand leur frère Lot leur dit : "Ne craindrez-vous pas [Allah]?
-Dialogue: 0,0:25:22.88,0:25:28.80,Default,,0,0,0,,162. Je suis pour vous un messager digne de confiance.
-Dialogue: 0,0:25:28.80,0:25:33.20,Default,,0,0,0,,163. Craignez Allah donc et obéissez-moi.
-Dialogue: 0,0:25:33.20,0:25:44.80,Default,,0,0,0,,164. Je ne vous demande pas de salaire pour cela; mon salaire n'incombe qu'au Seigneur de l'univers.
-Dialogue: 0,0:25:44.80,0:25:50.00,Default,,0,0,0,,165. Accomplissez-vous l'acte charnel avec les mâles de ce monde?
-Dialogue: 0,0:25:50.00,0:26:03.76,Default,,0,0,0,,166. Et délaissez-vous les épouses que votre Seigneur a créées pour vous? Mais vous n'êtes que des gens transgresseurs".
-Dialogue: 0,0:26:03.76,0:26:13.52,Default,,0,0,0,,167. Ils dirent : "Si tu ne cesses pas, Lot, tu seras certainement du nombre des expulsés".
-Dialogue: 0,0:26:13.52,0:26:20.64,Default,,0,0,0,,168. Il dit : "Je déteste vraiment ce que vous faites.
-Dialogue: 0,0:26:20.64,0:26:28.24,Default,,0,0,0,,169. Seigneur, sauve-moi ainsi que ma famille de ce qu'ils font".
-Dialogue: 0,0:26:28.24,0:26:35.36,Default,,0,0,0,,170. Nous le sauvâmes alors, lui et toute sa famille,
-Dialogue: 0,0:26:35.36,0:26:41.04,Default,,0,0,0,,171. sauf une vieille qui fut parmi les exterminés.
-Dialogue: 0,0:26:41.04,0:26:46.96,Default,,0,0,0,,172. Puis Nous détruisîmes les autres;
-Dialogue: 0,0:26:46.88,0:26:57.60,Default,,0,0,0,,173. et Nous fîmes pleuvoir sur eux une pluie (de pierres). Et quelle pluie fatale pour ceux qui sont avertis!
-Dialogue: 0,0:26:57.60,0:27:07.52,Default,,0,0,0,,174. Voilà bien là un prodige. Cependant, la plupart d'entre eux ne croient pas.
-Dialogue: 0,0:27:07.52,0:27:13.52,Default,,0,0,0,,175. Et ton Seigneur, c'est en vérité Lui le Tout Puissant, le Très Miséricordieux.
-Dialogue: 0,0:27:13.52,0:27:19.52,Default,,0,0,0,,176. Les gens d'Al-Aïka traitèrent de menteurs les Messagers .
-Dialogue: 0,0:27:19.52,0:27:25.52,Default,,0,0,0,,177. Lorsque Chuaïb leur dit : "Ne craindrez-vous pas [Allah]".
-Dialogue: 0,0:27:25.52,0:27:31.52,Default,,0,0,0,,178. Je suis pour vous un messager digne de confiance.
-Dialogue: 0,0:27:31.52,0:27:36.56,Default,,0,0,0,,179. Craignez Allah donc et obéissez-moi,
-Dialogue: 0,0:27:36.56,0:27:47.60,Default,,0,0,0,,180. et je ne vous demande pas de salaire pour cela; mon salaire n'incombe qu'au Seigneur de l'univers.
-Dialogue: 0,0:27:47.60,0:27:54.08,Default,,0,0,0,,181. Donnez la pleine mesure et n'en faites rien perdre [aux gens].
-Dialogue: 0,0:27:54.08,0:28:00.00,Default,,0,0,0,,182. et pesez avec une balance exacte.
-Dialogue: 0,0:28:00.00,0:28:10.32,Default,,0,0,0,,183. Ne donnez pas aux gens moins que leur dû; et ne commettez pas de désordre et de corruption sur terre.
-Dialogue: 0,0:28:10.32,0:28:17.84,Default,,0,0,0,,184. Et craignez Celui qui vous a créés, vous et les anciennes générations".
-Dialogue: 0,0:28:17.84,0:28:27.36,Default,,0,0,0,,185. Ils dirent : "Tu es certes du nombre des ensorcelés;
-Dialogue: 0,0:28:27.36,0:28:39.12,Default,,0,0,0,,186. Tu n'es qu'un homme comme nous; et vraiment nous pensons que tu es du nombre des menteurs.
-Dialogue: 0,0:28:39.12,0:28:51.52,Default,,0,0,0,,187. Fais donc tomber sur nous des morceaux du ciel si tu es du nombre des véridiques! "
-Dialogue: 0,0:28:51.52,0:28:59.76,Default,,0,0,0,,188. Il dit : "Mon Seigneur sait mieux ce que vous faites".
-Dialogue: 0,0:28:59.76,0:29:11.92,Default,,0,0,0,,189. Mais ils le traitèrent de menteur. Alors, le châtiment du jour de l'Ombre les saisit. Ce fut le châtiment d'un jour terrible.
-Dialogue: 0,0:29:11.92,0:29:21.52,Default,,0,0,0,,190. Voilà bien là un prodige. Cependant, la plupart d'entre eux ne croient pas.
-Dialogue: 0,0:29:21.52,0:29:29.60,Default,,0,0,0,,191. Et ton Seigneur, c'est en vérité Lui le Tout Puissant, le Très Miséricordieux.
-Dialogue: 0,0:29:29.60,0:29:36.16,Default,,0,0,0,,192. Ce (Coran) ci, c'est le Seigneur de l'univers qui l'a fait descendre,
-Dialogue: 0,0:29:36.16,0:29:41.68,Default,,0,0,0,,193. et l'Esprit fidèle est descendu avec cela
-Dialogue: 0,0:29:41.68,0:29:48.56,Default,,0,0,0,,194. sur ton coeur, pour que tu sois du nombre des avertisseurs,
-Dialogue: 0,0:29:48.56,0:29:54.72,Default,,0,0,0,,195. en une langue arabe très claire.
-Dialogue: 0,0:29:54.72,0:30:01.20,Default,,0,0,0,,196. Et ceci était déjà mentionné dans les écrits des anciens (envoyés).
-Dialogue: 0,0:30:01.20,0:30:16.24,Default,,0,0,0,,197. N'est-ce pas pour eux un signe, que les savants des Enfants d'Israël le sachent?
-Dialogue: 0,0:30:16.24,0:30:23.28,Default,,0,0,0,,198. Si Nous l'avions fait descendre sur quelqu'un des non-Arabes,
-Dialogue: 0,0:30:23.28,0:30:31.28,Default,,0,0,0,,199. et que celui-ci le leur eut récité, ils n'y auraient pas cru.
-Dialogue: 0,0:30:31.28,0:30:38.32,Default,,0,0,0,,200. Ainsi l'avons Nous fait pénétrer [le doute] dans les coeurs des criminels;
-Dialogue: 0,0:30:38.32,0:30:46.56,Default,,0,0,0,,201. mais ils n'y [le Coran] croiront pas avant de voir le châtiment douloureux,
-Dialogue: 0,0:30:46.56,0:30:53.84,Default,,0,0,0,,202. qui viendra sur eux soudain, sans qu'ils s'en rendent compte;
-Dialogue: 0,0:30:53.84,0:31:01.04,Default,,0,0,0,,203. alors ils diront : "Est-ce qu'on va nous donner du répit? "
-Dialogue: 0,0:31:01.04,0:31:06.32,Default,,0,0,0,,204. Est-ce qu'ils cherchent à hâter Notre châtiment?
-Dialogue: 0,0:31:06.32,0:31:13.36,Default,,0,0,0,,205. Vois-tu si Nous leur permettions de jouir, des années durant,
-Dialogue: 0,0:31:13.36,0:31:21.12,Default,,0,0,0,,206. et qu'ensuite leur arrive ce dont on les menaçait,
-Dialogue: 0,0:31:21.28,0:31:29.68,Default,,0,0,0,,207. les jouissances qu'on leur a permises ne leur serviraient à rien.
-Dialogue: 0,0:31:29.68,0:31:40.64,Default,,0,0,0,,208. Et Nous ne faisons pas périr de cité avant qu'elle n'ait eu des avertisseurs,
-Dialogue: 0,0:31:40.64,0:31:46.96,Default,,0,0,0,,209. [à titre de] rappel, et Nous ne sommes pas injuste.
-Dialogue: 0,0:31:46.96,0:31:52.32,Default,,0,0,0,,210. Et ce ne sont point les diables qui sont descendus avec ceci (le Coran) :
-Dialogue: 0,0:31:52.32,0:31:58.96,Default,,0,0,0,,211. cela ne leur convient pas; et ils n'auraient pu le faire.
-Dialogue: 0,0:31:58.96,0:32:05.20,Default,,0,0,0,,212. Car ils sont écartés de toute écoute (du message divin).
-Dialogue: 0,0:32:05.20,0:32:15.36,Default,,0,0,0,,213. N'invoque donc pas une autre divinité avec Allah, sinon tu seras du nombre des châtiés.
-Dialogue: 0,0:32:15.36,0:32:22.00,Default,,0,0,0,,214. Et avertis les gens qui te sont les plus proches.
-Dialogue: 0,0:32:22.00,0:32:29.12,Default,,0,0,0,,215. Et abaisse ton aile [sois bienveillant] pour les croyants qui te suivent.
-Dialogue: 0,0:32:29.12,0:32:39.84,Default,,0,0,0,,216. Mais s'ils te désobéissent, dis-leur : "Moi, je désavoue ce que vous faites".
-Dialogue: 0,0:32:39.84,0:32:46.24,Default,,0,0,0,,217. Et place ta confiance dans le Tout Puissant, le Très Miséricordieux,
-Dialogue: 0,0:32:46.24,0:32:49.84,Default,,0,0,0,,218. qui te voit quand tu te lèves ,
-Dialogue: 0,0:32:49.84,0:32:54.32,Default,,0,0,0,,219. et (voit) tes gestes parmi ceux qui se prosternent.
-Dialogue: 0,0:32:54.32,0:33:00.24,Default,,0,0,0,,220. C'est Lui vraiment, I'Audient, I'Omniscient.
-Dialogue: 0,0:33:00.24,0:33:09.60,Default,,0,0,0,,221. Vous apprendrai-Je sur qui les diables descendent?
-Dialogue: 0,0:33:09.60,0:33:16.08,Default,,0,0,0,,222. Ils descendent sur tout calomniateur, pécheur.
-Dialogue: 0,0:33:16.08,0:33:23.28,Default,,0,0,0,,223. Ils tendent l'oreille... Cependant, la plupart d'entre eux sont menteurs.
-Dialogue: 0,0:33:23.28,0:33:32.24,Default,,0,0,0,,224. Et quant aux poètes, ce sont les égarés qui les suivent.
-Dialogue: 0,0:33:32.24,0:33:40.40,Default,,0,0,0,,225. Ne vois-tu pas qu'ils divaguent dans chaque vallée,
-Dialogue: 0,0:33:40.40,0:33:46.88,Default,,0,0,0,,226. et qu'ils disent ce qu'ils ne font pas?
-Dialogue: 0,0:33:46.88,0:34:22.16,Default,,0,0,0,,227. à part ceux qui croient et font de bonnes oeuvres, qui invoquent souvent le nom d'Allah et se défendent contre les torts qu'on leur fait. Les injustes verront bientôt le revirement qu'ils [éprouveront]!
+Dialogue: 0,0:00:32.94,0:00:39.47,Default,,0,0,0,,[Dieu est le plus grand]
+Dialogue: 0,0:00:43.05,0:00:48.84,Default,,0,0,0,,[1:2] Louange à Dieu, Seigneur de l'univers.
+Dialogue: 0,0:00:48.84,0:00:53.89,Default,,0,0,0,,[1:3] Le Tout Miséricordieux, le Très Miséricordieux,
+Dialogue: 0,0:00:53.89,0:00:59.15,Default,,0,0,0,,[1:4] Maître du Jour de la rétribution.
+Dialogue: 0,0:00:59.15,0:01:05.26,Default,,0,0,0,,[1:5] C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons secours.
+Dialogue: 0,0:01:05.26,0:01:10.94,Default,,0,0,0,,[1:6] Guide-nous dans le droit chemin,
+Dialogue: 0,0:01:10.94,0:01:26.10,Default,,0,0,0,,[1:7] le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.
+Dialogue: 0,0:01:26.10,0:01:32.10,Default,,0,0,0,,[Amin]
+Dialogue: 0,0:01:32.10,0:01:41.89,Default,,0,0,0,,1. Ta, Sin, Mim.
+Dialogue: 0,0:01:41.89,0:01:47.36,Default,,0,0,0,,2. Voici les versets du Livre explicite.
+Dialogue: 0,0:01:47.36,0:01:56.21,Default,,0,0,0,,3. Il se peut que tu te consumes de chagrin parce qu'ils ne sont pas croyants !
+Dialogue: 0,0:01:56.21,0:02:11.15,Default,,0,0,0,,4. Si Nous voulions, Nous ferions descendre du ciel sur eux un prodige devant lequel leurs nuques resteront courbées.
+Dialogue: 0,0:02:11.15,0:02:24.73,Default,,0,0,0,,5. Aucun nouveau rappel ne leur vient du Tout Miséricordieux sans qu'ils ne l'esquivent.
+Dialogue: 0,0:02:24.73,0:02:37.68,Default,,0,0,0,,6. Et ils ont traité de mensonge [tout ce qui leur vient du Seigneur]. Il leur viendra bientôt des nouvelles de ce dont ils se raillent.
+Dialogue: 0,0:02:37.68,0:02:49.36,Default,,0,0,0,,7. N'ont-ils pas observé la terre, combien Nous y avons fait pousser de couples généreux de toutes sortes ?
+Dialogue: 0,0:02:49.36,0:02:59.68,Default,,0,0,0,,8. Voilà bien là une preuve ! Et la plupart d'entre eux ne croient pas.
+Dialogue: 0,0:02:59.68,0:03:06.21,Default,,0,0,0,,9. Et ton Seigneur est en vérité Lui le Tout Puissant, le Très Miséricordieux.
+Dialogue: 0,0:03:06.21,0:03:15.78,Default,,0,0,0,,10. Et lorsque ton Seigneur appela Moïse : «Rends-toi auprès du peuple injuste,
+Dialogue: 0,0:03:15.78,0:03:23.36,Default,,0,0,0,,11. [auprès du] peuple de Pharaon»; ne craindront-ils pas (Dieu) ?
+Dialogue: 0,0:03:23.36,0:03:33.05,Default,,0,0,0,,12. Il dit : «Seigneur, je crains qu'ils ne me traitent de menteur;
+Dialogue: 0,0:03:33.05,0:03:43.78,Default,,0,0,0,,13. que ma poitrine ne se serre, et que ma langue ne soit embarrassée : Mande donc Aaron.
+Dialogue: 0,0:03:43.78,0:03:54.21,Default,,0,0,0,,14. Ils ont un crime à me reprocher; je crains donc qu'ils ne me tuent» .
+Dialogue: 0,0:03:54.21,0:04:06.10,Default,,0,0,0,,15. Mais [Dieu lui] dit : «Jamais ! Allez tous deux avec Nos prodiges. Nous resterons avec vous et Nous écouterons.
+Dialogue: 0,0:04:06.10,0:04:17.47,Default,,0,0,0,,16. Rendez-vous donc tous deux auprès de Pharaon, puis dites : «Nous sommes les messagers du Seigneur de l'univers,
+Dialogue: 0,0:04:17.47,0:04:28.42,Default,,0,0,0,,17. pour que tu renvoies les Enfants d'Israël avec nous».
+Dialogue: 0,0:04:28.42,0:04:39.57,Default,,0,0,0,,18. «Ne t'avons-nous pas, dit Pharaon, élevé chez nous tout enfant ? Et n'as-tu pas demeuré parmi nous des années de ta vie ?
+Dialogue: 0,0:04:39.57,0:04:49.05,Default,,0,0,0,,19. Puis tu as commis le méfait que tu as fait, en dépit de toute reconnaissance».
+Dialogue: 0,0:04:49.05,0:05:01.57,Default,,0,0,0,,20. «Je l'ai fait, dit Moïse, alors que j'étais encore du nombre des égarés.
+Dialogue: 0,0:05:01.57,0:05:14.94,Default,,0,0,0,,21. Je me suis donc enfui de vous quand j'ai eu peur de vous : puis, mon Seigneur m'a donné la sagesse et m'a désigné parmi Ses messagers.
+Dialogue: 0,0:05:14.94,0:05:28.63,Default,,0,0,0,,22. Est-ce là un bienfait de ta part [que tu me rappelles] avec reproche, alors que tu as asservi les Enfants d'Israël ? »
+Dialogue: 0,0:05:28.63,0:05:35.78,Default,,0,0,0,,23. «Et qu'est-ce que le Seigneur de l'univers ? » dit Pharaon.
+Dialogue: 0,0:05:35.78,0:05:48.94,Default,,0,0,0,,24. «Le Seigneur des cieux et de la terre et de ce qui existe entre eux, dit [Moïse], si seulement vous pouviez en être convaincus ! »
+Dialogue: 0,0:05:48.94,0:05:58.52,Default,,0,0,0,,25. [Pharaon] dit à ceux qui l'entouraient : «N'entendez-vous pas ? »
+Dialogue: 0,0:05:58.52,0:06:07.68,Default,,0,0,0,,26. [Moïse] continue : «... Votre Seigneur, et le Seigneur de vos plus anciens ancêtres».
+Dialogue: 0,0:06:07.68,0:06:18.00,Default,,0,0,0,,27. «Vraiment, dit [Pharaon], votre messager qui vous a été envoyé, est un fou».
+Dialogue: 0,0:06:18.00,0:06:30.31,Default,,0,0,0,,28. [Moïse] ajouta : «... Le Seigneur du Levant et du Couchant et de ce qui est entre les deux; si seulement vous compreniez ! »
+Dialogue: 0,0:06:30.31,0:06:40.73,Default,,0,0,0,,29. «Si tu adoptes, dit [Pharaon], une autre divinité que moi, je te mettrai parmi les prisonniers».
+Dialogue: 0,0:06:40.73,0:06:48.42,Default,,0,0,0,,30. «Et même si je t'apportais, dit [Moïse], une chose (une preuve) évidente ?
+Dialogue: 0,0:06:48.42,0:06:58.10,Default,,0,0,0,,31. «Apporte-la, dit [Pharaon], si tu es du nombre des véridiques».
+Dialogue: 0,0:06:58.10,0:07:06.21,Default,,0,0,0,,32. [Moïse] jeta donc son bâton et le voilà devenu un serpent manifeste.
+Dialogue: 0,0:07:06.21,0:07:16.63,Default,,0,0,0,,33. Et il tira sa main et voilà qu'elle était blanche (étincelante) à ceux qui regardaient.
+Dialogue: 0,0:07:16.63,0:07:26.21,Default,,0,0,0,,34. [Pharaon] dit aux notables autour de lui : «Voilà en vérité un magicien savant.
+Dialogue: 0,0:07:26.21,0:07:37.47,Default,,0,0,0,,35. Il veut par sa magie vous expulser de votre terre. que commandez-vous ? »
+Dialogue: 0,0:07:37.47,0:07:48.21,Default,,0,0,0,,36. Ils dirent : «Remets-les à plus tard, [lui] et son frère, et envoie des gens dans les villes, pour rassembler,
+Dialogue: 0,0:07:48.21,0:07:54.21,Default,,0,0,0,,37. et t'amener tout grand magicien savant».
+Dialogue: 0,0:07:54.21,0:08:01.47,Default,,0,0,0,,38. Les magiciens furent donc réunis en rendez-vous au jour convenu.
+Dialogue: 0,0:08:01.47,0:08:09.57,Default,,0,0,0,,39. Et il fut dit aux gens : «Est-ce que vous allez vous réunir,
+Dialogue: 0,0:08:09.57,0:08:18.73,Default,,0,0,0,,40. afin que nous suivions les magiciens, si ce sont eux les vainqueurs ? »
+Dialogue: 0,0:08:18.73,0:08:34.10,Default,,0,0,0,,41. Puis, lorsque les magiciens arrivèrent, ils dirent à Pharaon : «Y aura-t-il vraiment une récompense pour nous, si nous sommes les vainqueurs ? »
+Dialogue: 0,0:08:34.10,0:08:43.47,Default,,0,0,0,,42. Il dit : «Oui, bien sûr, vous serez alors parmi mes proches !
+Dialogue: 0,0:08:43.47,0:08:55.57,Default,,0,0,0,,43. Moïse leur dit : «Jetez ce que vous avez à jeter».
+Dialogue: 0,0:08:55.57,0:09:08.42,Default,,0,0,0,,44. Ils jetèrent donc leurs cordes et leurs bâtons et dirent : «Par la puissance de Pharaon ! ... C'est nous qui serons les vainqueurs».
+Dialogue: 0,0:09:08.42,0:09:16.94,Default,,0,0,0,,45. Puis Moïse jeta son bâton, et voilà qu'il happait ce qu'ils avaient fabriqué.
+Dialogue: 0,0:09:16.94,0:09:22.52,Default,,0,0,0,,46. Alors les magiciens tombèrent prosternés,
+Dialogue: 0,0:09:22.52,0:09:31.05,Default,,0,0,0,,47. disant : «Nous croyons au Seigneur de l'univers,
+Dialogue: 0,0:09:31.05,0:09:35.89,Default,,0,0,0,,48. Le Seigneur de Moïse et d'Aaron».
+Dialogue: 0,0:09:35.89,0:10:06.73,Default,,0,0,0,,49. [Pharaon] dit : «Avez-vous cru en lui avant que je ne vous le permette ? En vérité, c'est lui votre chef, qui vous a enseigné la magie ! Eh bien, vous saurez bientôt ! Je vous couperai, sûrement, mains et jambes opposées, et vous crucifierai tous».
+Dialogue: 0,0:10:06.73,0:10:21.05,Default,,0,0,0,,50. Ils disent : «Il n'y a pas de mal ! Car c'est vers notre Seigneur que nous retournerons.
+Dialogue: 0,0:10:21.05,0:10:38.52,Default,,0,0,0,,51. Nous convoitons que notre Seigneur nous pardonne nos fautes pour avoir été les premiers à croire».
+Dialogue: 0,0:10:38.52,0:10:53.05,Default,,0,0,0,,52. Et Nous révélâmes à Moïse [ceci]: «Pars de nuit avec Mes serviteurs, car vous serez poursuivis».
+Dialogue: 0,0:10:53.05,0:11:00.94,Default,,0,0,0,,53. Puis, Pharaon envoya des rassembleurs [dire] dans les villes :
+Dialogue: 0,0:11:00.94,0:11:11.05,Default,,0,0,0,,54. «Ce sont, en fait, une bande peu nombreuse,
+Dialogue: 0,0:11:11.05,0:11:18.42,Default,,0,0,0,,55. mais ils nous irritent,
+Dialogue: 0,0:11:18.42,0:11:24.94,Default,,0,0,0,,56. tandis que nous sommes tous vigilants».
+Dialogue: 0,0:11:24.94,0:11:33.47,Default,,0,0,0,,57. Ainsi, Nous les fîmes donc sortir des jardins, des sources,
+Dialogue: 0,0:11:33.47,0:11:39.89,Default,,0,0,0,,58. des trésors et d'un lieu de séjour agréable.
+Dialogue: 0,0:11:39.89,0:11:48.63,Default,,0,0,0,,59. Il en fut ainsi ! Et Nous les donnâmes en héritage aux enfants d'Israël.
+Dialogue: 0,0:11:48.63,0:11:54.00,Default,,0,0,0,,60. Au lever du soleil, ils les poursuivirent.
+Dialogue: 0,0:11:54.00,0:12:09.05,Default,,0,0,0,,61. Puis, quand les deux partis se virent, les compagnons de Moïse dirent : «Nous allons être rejoints».
+Dialogue: 0,0:12:09.05,0:12:19.05,Default,,0,0,0,,62. Il dit : «Jamais, car j'ai avec moi mon Seigneur qui va me guider».
+Dialogue: 0,0:12:19.05,0:12:36.42,Default,,0,0,0,,63. Alors Nous révélâmes à Moïse : «Frappe la mer de ton bâton ». Elle se fendit alors, et chaque versant fut comme une énorme montagne.
+Dialogue: 0,0:12:36.42,0:12:43.57,Default,,0,0,0,,64. Nous fîmes approcher les autres [Pharaon et son peuple].
+Dialogue: 0,0:12:43.57,0:12:50.73,Default,,0,0,0,,65. Et Nous sauvâmes Moïse et tous ceux qui étaient avec lui;
+Dialogue: 0,0:12:50.73,0:12:55.36,Default,,0,0,0,,66. ensuite Nous noyâmes les autres.
+Dialogue: 0,0:12:55.36,0:13:04.84,Default,,0,0,0,,67. Voilà bien là un prodige, mais la plupart d'entre eux ne croient pas.
+Dialogue: 0,0:13:04.84,0:13:11.36,Default,,0,0,0,,68. Et ton Seigneur, c'est en vérité Lui le Tout Puissant, le Très Miséricordieux.
+Dialogue: 0,0:13:11.36,0:13:16.84,Default,,0,0,0,,69. Et récite-leur la nouvelle d'Abraham :
+Dialogue: 0,0:13:16.84,0:13:24.00,Default,,0,0,0,,70. Quand il dit à son père et à son peuple : «Qu'adorez-vous ? »
+Dialogue: 0,0:13:24.00,0:13:32.10,Default,,0,0,0,,71. Ils dirent : «Nous adorons des idoles et nous leurs restons attachés».
+Dialogue: 0,0:13:32.10,0:13:38.10,Default,,0,0,0,,72. Il dit : «Vous entendent-elles lorsque vous [les] appelez ?
+Dialogue: 0,0:13:38.10,0:13:44.63,Default,,0,0,0,,73. ou vous profitent-elles ? ou vous nuisent-elles ? »
+Dialogue: 0,0:13:44.63,0:13:55.05,Default,,0,0,0,,74. Ils dirent : «Non ! mais nous avons trouvé nos ancêtres agissant ainsi».
+Dialogue: 0,0:13:55.05,0:14:02.84,Default,,0,0,0,,75. Il dit : «Que dites-vous de ce que vous adoriez... ?
+Dialogue: 0,0:14:02.84,0:14:10.42,Default,,0,0,0,,76. Vous et vos vieux ancêtres ?
+Dialogue: 0,0:14:10.42,0:14:21.15,Default,,0,0,0,,77. Ils sont tous pour moi des ennemis sauf le Seigneur de l'univers,
+Dialogue: 0,0:14:21.15,0:14:28.00,Default,,0,0,0,,78. qui m'a créé, et c'est Lui qui me guide;
+Dialogue: 0,0:14:28.00,0:14:34.63,Default,,0,0,0,,79. et c'est Lui qui me nourrit et me donne à boire;
+Dialogue: 0,0:14:34.63,0:14:40.21,Default,,0,0,0,,80. et quand je suis malade, c'est Lui qui me guérit,
+Dialogue: 0,0:14:40.21,0:14:46.94,Default,,0,0,0,,81. et qui me fera mourir, puis me redonnera la vie,
+Dialogue: 0,0:14:46.94,0:14:58.52,Default,,0,0,0,,82. et c'est de Lui que je convoite le pardon de mes fautes le Jour de la Rétribution.
+Dialogue: 0,0:14:58.52,0:15:06.42,Default,,0,0,0,,83. Seigneur, accorde-moi sagesse (et savoir) et fais-moi rejoindre les gens de bien;
+Dialogue: 0,0:15:06.42,0:15:13.57,Default,,0,0,0,,84. fais que j'aie une mention honorable sur les langues de la postérité;
+Dialogue: 0,0:15:13.57,0:15:22.42,Default,,0,0,0,,85. et fais de moi l'un des héritiers du Jardin des délices.
+Dialogue: 0,0:15:22.42,0:15:33.36,Default,,0,0,0,,86. et pardonne à mon père : car il a été du nombre des égarés;
+Dialogue: 0,0:15:33.36,0:15:39.47,Default,,0,0,0,,87. et ne me couvre pas d'ignominie, le jour où l'on sera ressuscité,
+Dialogue: 0,0:15:39.47,0:15:47.47,Default,,0,0,0,,88. le jour où ni les biens, ni les enfants ne seront d'aucune utilité,
+Dialogue: 0,0:15:47.47,0:15:54.73,Default,,0,0,0,,89. sauf celui qui vient à Dieu avec un coeur sain».
+Dialogue: 0,0:15:54.73,0:16:01.68,Default,,0,0,0,,90. On rapprochera alors le Paradis pour le pieux.
+Dialogue: 0,0:16:01.68,0:16:08.52,Default,,0,0,0,,91. et l'on exposera aux errants la Fournaise,
+Dialogue: 0,0:16:08.52,0:16:13.89,Default,,0,0,0,,92. et on leur dira : «Où sont ceux que vous adoriez,
+Dialogue: 0,0:16:13.89,0:16:23.36,Default,,0,0,0,,93. en dehors de Dieu ? vous secourent-ils ? ou se secourent-ils eux-mêmes ? »
+Dialogue: 0,0:16:23.36,0:16:29.36,Default,,0,0,0,,94. Ils y seront donc jetés pêle-mêle, et les errants aussi,
+Dialogue: 0,0:16:29.36,0:16:35.36,Default,,0,0,0,,95. ainsi que toutes les légions d'Iblis.
+Dialogue: 0,0:16:35.36,0:16:41.15,Default,,0,0,0,,96. Ils diront, tout en s'y querellant :
+Dialogue: 0,0:16:41.15,0:16:50.10,Default,,0,0,0,,97. «Par Dieu ! Nous étions certes dans un égarement évident,
+Dialogue: 0,0:16:50.10,0:16:57.05,Default,,0,0,0,,98. quand nous faisions de vous les égaux du Seigneur de l'univers.
+Dialogue: 0,0:16:57.05,0:17:05.47,Default,,0,0,0,,99. Ce ne sont que les criminels qui nous ont égarés.
+Dialogue: 0,0:17:05.47,0:17:09.05,Default,,0,0,0,,100. Et nous n'avons pas d'intercesseurs,
+Dialogue: 0,0:17:09.05,0:17:13.99,Default,,0,0,0,,101. ni d'ami chaleureux.
+Dialogue: 0,0:17:13.99,0:17:26.52,Default,,0,0,0,,102. Si un retour nous était possible, alors Cous serions parmi les croyants ! »
+Dialogue: 0,0:17:26.52,0:17:38.21,Default,,0,0,0,,103. Voilà bien là un signe; cependant, la plupart d'entre eux ne croient pas.
+Dialogue: 0,0:17:38.21,0:17:48.21,Default,,0,0,0,,104. Et ton Seigneur, c'est Lui vraiment le Puissant, le Très Miséricordieux.
+Dialogue: 0,0:17:48.21,0:17:54.31,Default,,0,0,0,,105. Le peuple de Noé traita de menteurs les Messagers,
+Dialogue: 0,0:17:54.31,0:18:01.68,Default,,0,0,0,,106. lorsque Noé, leur frère (contribule), leur dit : «Ne craindrez-vous pas [Dieu] ?
+Dialogue: 0,0:18:01.68,0:18:07.47,Default,,0,0,0,,107. Je suis pour vous un messager digne de confiance.
+Dialogue: 0,0:18:07.47,0:18:12.42,Default,,0,0,0,,108. Craignez Dieu donc et obéissez-moi.
+Dialogue: 0,0:18:12.42,0:18:24.94,Default,,0,0,0,,109. Et je ne vous demande pas de salaire pour cela; mon salaire n'incombe qu'au Seigneur de l'univers.
+Dialogue: 0,0:18:24.94,0:18:30.63,Default,,0,0,0,,110. Craignez Dieu donc, et obéissez-moi».
+Dialogue: 0,0:18:30.63,0:18:38.94,Default,,0,0,0,,111. Ils dirent : «Croirons-nous en toi, alors que ce sont les plus vils qui te suivent ? »
+Dialogue: 0,0:18:38.94,0:18:45.57,Default,,0,0,0,,112. Il dit : «Je ne sais pas ce que ceux-là faisaient.
+Dialogue: 0,0:18:45.57,0:18:52.73,Default,,0,0,0,,113. Leur compte n'incombe qu'à mon Seigneur. Si seulement vous êtes conscients.
+Dialogue: 0,0:18:52.73,0:18:59.26,Default,,0,0,0,,114. Je ne suis pas celui qui repousse les croyants.
+Dialogue: 0,0:18:59.26,0:19:04.94,Default,,0,0,0,,115. Je ne suis qu'un avertisseur explicite».
+Dialogue: 0,0:19:04.94,0:19:16.21,Default,,0,0,0,,116. Ils dirent : «Si tu ne cesses pas, Noé, tu seras certainement du nombre des lapidés ! »
+Dialogue: 0,0:19:16.21,0:19:22.21,Default,,0,0,0,,117. Il dit : «Ô mon Seigneur, mon peuple me traite de menteur.
+Dialogue: 0,0:19:22.21,0:19:32.84,Default,,0,0,0,,118. Tranche donc clairement entre eux et moi : et sauve-moi ainsi que ceux des croyants qui sont avec moi».
+Dialogue: 0,0:19:32.84,0:19:41.89,Default,,0,0,0,,119. Nous le sauvâmes donc, de même que ceux qui étaient avec lui dans l'arche, pleinement chargée.
+Dialogue: 0,0:19:41.89,0:19:48.94,Default,,0,0,0,,120. Et ensuite nous noyâmes le reste (les infidèles).
+Dialogue: 0,0:19:48.94,0:19:59.15,Default,,0,0,0,,121. Voilà bien là un signe. Cependant, la plupart d'entre eux ne croient pas.
+Dialogue: 0,0:19:59.15,0:20:06.63,Default,,0,0,0,,122. Et Ton Seigneur, c'est lui vraiment le Puissant ! le Très Miséricordieux.
+Dialogue: 0,0:20:06.63,0:20:11.89,Default,,0,0,0,,123. Les Aad traitèrent de menteurs les Envoyés.
+Dialogue: 0,0:20:11.89,0:20:18.63,Default,,0,0,0,,124. Et quand Hud, leur frère (contribule), leur dit : «Ne craindrez-vous pas [Dieu] ? »
+Dialogue: 0,0:20:18.63,0:20:24.52,Default,,0,0,0,,125. Je suis pour vous un messager digne de confiance,
+Dialogue: 0,0:20:24.52,0:20:28.84,Default,,0,0,0,,126. Craignez Dieu donc et obéissez-moi.
+Dialogue: 0,0:20:28.84,0:20:41.47,Default,,0,0,0,,127. Et je ne vous demande pas de salaire pour cela; mon salaire n'incombe qu'au Seigneur de l'univers.
+Dialogue: 0,0:20:41.47,0:20:48.73,Default,,0,0,0,,128. Bâtissez-vous par frivolité sur chaque colline un monument ?
+Dialogue: 0,0:20:48.73,0:20:55.47,Default,,0,0,0,,129. Et édifiez-vous des châteaux comme si vous deviez demeurer éternellement ?
+Dialogue: 0,0:20:55.47,0:21:01.78,Default,,0,0,0,,130. Et quand vous sévissez contre quelqu'un, vous le faites impitoyablement.
+Dialogue: 0,0:21:01.78,0:21:06.42,Default,,0,0,0,,131. Craignez Dieu donc et obéissez-moi.
+Dialogue: 0,0:21:06.42,0:21:15.26,Default,,0,0,0,,132. Craignez Celui qui vous a pourvus de [toutes les bonnes choses] que vous connaissez,
+Dialogue: 0,0:21:15.26,0:21:21.68,Default,,0,0,0,,133. qui vous a pourvus de bestiaux et d'enfants,
+Dialogue: 0,0:21:21.68,0:21:26.84,Default,,0,0,0,,134. de jardins et de sources.
+Dialogue: 0,0:21:26.84,0:21:35.78,Default,,0,0,0,,135. Je crains pour vous le châtiment d'un Jour terrible.
+Dialogue: 0,0:21:35.78,0:21:49.36,Default,,0,0,0,,136. Ils dirent : «Que tu nous exhortes ou pas, cela nous est parfaitement égal !
+Dialogue: 0,0:21:49.36,0:21:56.84,Default,,0,0,0,,137. Ce ne sont là que des moeurs des anciens :
+Dialogue: 0,0:21:56.84,0:22:01.36,Default,,0,0,0,,138. Nous ne serons nullement châtiés».
+Dialogue: 0,0:22:01.36,0:22:15.57,Default,,0,0,0,,139. Ils le traitèrent donc de menteur. Et nous les fîmes périr. Voilà bien là un signe ! Cependant, la plupart d'entre eux ne croient pas.
+Dialogue: 0,0:22:15.57,0:22:22.42,Default,,0,0,0,,140. Et Ton Seigneur, c'est Lui vraiment le Puissant, le Très Miséricordieux.
+Dialogue: 0,0:22:22.42,0:22:27.47,Default,,0,0,0,,141. Les Tamud traitèrent de menteurs les Messagers.
+Dialogue: 0,0:22:27.47,0:22:34.42,Default,,0,0,0,,142. Quand Salih, leur frère (contribule), leur dit : «Ne craindrez-vous pas [Dieu] ? »
+Dialogue: 0,0:22:34.42,0:22:39.78,Default,,0,0,0,,143. Je suis pour vous un messager digne de confiance.
+Dialogue: 0,0:22:39.78,0:22:44.73,Default,,0,0,0,,144. Craignez Dieu donc et obéissez-moi.
+Dialogue: 0,0:22:44.73,0:22:56.84,Default,,0,0,0,,145. Je ne vous demande pas de salaire pour cela, mon salaire n'incombe qu'au Seigneur de l'univers.
+Dialogue: 0,0:22:56.84,0:23:02.84,Default,,0,0,0,,146. Vous laissera-t-on en sécurité dans votre présente condition ?
+Dialogue: 0,0:23:02.84,0:23:08.94,Default,,0,0,0,,147. Au milieu de jardins, de sources,
+Dialogue: 0,0:23:08.94,0:23:16.10,Default,,0,0,0,,148. de cultures et de palmiers aux fruits digestes ?
+Dialogue: 0,0:23:16.10,0:23:24.10,Default,,0,0,0,,149. Creusez-vous habilement des maisons dans les montagnes ?
+Dialogue: 0,0:23:24.10,0:23:29.36,Default,,0,0,0,,150. Craignez Dieu donc et obéissez-moi.
+Dialogue: 0,0:23:29.36,0:23:36.52,Default,,0,0,0,,151. N'obéissez pas à l'ordre des outranciers,
+Dialogue: 0,0:23:36.52,0:23:44.00,Default,,0,0,0,,152. qui sèment le désordre sur la terre et n'améliorent rien».
+Dialogue: 0,0:23:44.00,0:23:54.63,Default,,0,0,0,,153. Ils dirent : «Tu n'es qu'un ensorcelé.
+Dialogue: 0,0:23:54.63,0:24:10.21,Default,,0,0,0,,154. Tu n'es qu'un homme comme nous. Apporte donc un prodige, si tu es du nombre des véridiques».
+Dialogue: 0,0:24:10.21,0:24:21.05,Default,,0,0,0,,155. Il dit : «Voici une chamelle : à elle de boire un jour convenu, et à vous de boire un jour .
+Dialogue: 0,0:24:21.05,0:24:32.21,Default,,0,0,0,,156. Et ne lui infligez aucun mal, sinon le châtiment d'un jour terrible vous saisira».
+Dialogue: 0,0:24:32.21,0:24:38.00,Default,,0,0,0,,157. Mais ils la tuèrent Eh bien, ils eurent à regretter !
+Dialogue: 0,0:24:38.00,0:24:54.00,Default,,0,0,0,,158. Le châtiment, en effet, les saisit. Voilà bien là un prodige. Cependant, la plupart d'entre eux ne croient pas.
+Dialogue: 0,0:24:54.00,0:25:00.84,Default,,0,0,0,,159. Et ton Seigneur. c'est en vérité Lui le Tout-Puissant, le Très Miséricordieux.
+Dialogue: 0,0:25:00.84,0:25:06.42,Default,,0,0,0,,160. Le peuple de Lot traita de menteurs les Messagers,
+Dialogue: 0,0:25:06.42,0:25:13.26,Default,,0,0,0,,161. quand leur frère Lot leur dit : «Ne craindrez-vous pas [Dieu] ?
+Dialogue: 0,0:25:13.26,0:25:18.42,Default,,0,0,0,,162. Je suis pour vous un messager digne de confiance.
+Dialogue: 0,0:25:18.42,0:25:22.73,Default,,0,0,0,,163. Craignez Dieu donc et obéissez-moi.
+Dialogue: 0,0:25:22.73,0:25:33.68,Default,,0,0,0,,164. Je ne vous demande pas de salaire pour cela; mon salaire n'incombe qu'au Seigneur de l'univers.
+Dialogue: 0,0:25:33.68,0:25:39.36,Default,,0,0,0,,165. Accomplissez-vous l'acte charnel avec les mâles de ce monde ?
+Dialogue: 0,0:25:39.36,0:25:52.52,Default,,0,0,0,,166. Et délaissez-vous les épouses que votre Seigneur a créées pour vous ? Mais vous n'êtes que des gens transgresseurs».
+Dialogue: 0,0:25:52.52,0:26:02.63,Default,,0,0,0,,167. Ils dirent : «Si tu ne cesses pas, Lot, tu seras certainement du nombre des expulsés».
+Dialogue: 0,0:26:02.63,0:26:11.36,Default,,0,0,0,,168. Il dit : «Je déteste vraiment ce que vous faites.
+Dialogue: 0,0:26:11.36,0:26:19.36,Default,,0,0,0,,169. Seigneur, sauve-moi ainsi que ma famille de ce qu'ils font». X
+Dialogue: 0,0:26:19.36,0:26:25.36,Default,,0,0,0,,170. Nous le sauvâmes alors, lui et toute sa famille,
+Dialogue: 0,0:26:25.36,0:26:30.63,Default,,0,0,0,,171. sauf une vieille qui fut parmi les exterminés.
+Dialogue: 0,0:26:30.63,0:26:36.42,Default,,0,0,0,,172. Puis Nous détruisîmes les autres;
+Dialogue: 0,0:26:36.42,0:26:47.57,Default,,0,0,0,,173. et Nous fîmes pleuvoir sur eux une pluie (de pierres). Et quelle pluie fatale pour ceux qui sont avertis !
+Dialogue: 0,0:26:47.57,0:26:56.84,Default,,0,0,0,,174. Voilà bien là un prodige. Cependant, la plupart d'entre eux ne croient pas.
+Dialogue: 0,0:26:56.84,0:27:05.26,Default,,0,0,0,,175. Et ton Seigneur, c'est en vérité Lui le Tout Puissant, le Très Miséricordieux.
+Dialogue: 0,0:27:05.26,0:27:11.36,Default,,0,0,0,,176. Les gens d'Al-Aïka traitèrent de menteurs les Messagers .
+Dialogue: 0,0:27:11.36,0:27:18.42,Default,,0,0,0,,177. Lorsque Chuaïb leur dit : «Ne craindrez-vous pas [Dieu]».
+Dialogue: 0,0:27:18.42,0:27:24.31,Default,,0,0,0,,178. Je suis pour vous un messager digne de confiance.
+Dialogue: 0,0:27:24.31,0:27:29.26,Default,,0,0,0,,179. Craignez Dieu donc et obéissez-moi,
+Dialogue: 0,0:27:29.26,0:27:41.36,Default,,0,0,0,,180. et je ne vous demande pas de salaire pour cela; mon salaire n'incombe qu'au Seigneur de l'univers.
+Dialogue: 0,0:27:41.36,0:27:48.52,Default,,0,0,0,,181. Donnez la pleine mesure et n'en faites rien perdre [aux gens].
+Dialogue: 0,0:27:48.52,0:27:54.42,Default,,0,0,0,,182. et pesez avec une balance exacte.
+Dialogue: 0,0:27:54.42,0:28:05.26,Default,,0,0,0,,183. Ne donnez pas aux gens moins que leur dû; et ne commettez pas de désordre et de corruption sur terre.
+Dialogue: 0,0:28:05.26,0:28:13.15,Default,,0,0,0,,184. Et craignez Celui qui vous a créés, vous et les anciennes générations».
+Dialogue: 0,0:28:13.15,0:28:23.57,Default,,0,0,0,,185. Ils dirent : «Tu es certes du nombre des ensorcelés;
+Dialogue: 0,0:28:23.57,0:28:37.15,Default,,0,0,0,,186. Tu n'es qu'un homme comme nous; et vraiment nous pensons que tu es du nombre des menteurs.
+Dialogue: 0,0:28:37.15,0:28:49.26,Default,,0,0,0,,187. Fais donc tomber sur nous des morceaux du ciel si tu es du nombre des véridiques ! »
+Dialogue: 0,0:28:49.26,0:28:57.15,Default,,0,0,0,,188. Il dit : «Mon Seigneur sait mieux ce que vous faites».
+Dialogue: 0,0:28:57.15,0:29:10.52,Default,,0,0,0,,189. Mais ils le traitèrent de menteur. Alors, le châtiment du jour de l'Ombre les saisit. Ce fut le châtiment d'un jour terrible.
+Dialogue: 0,0:29:10.52,0:29:20.73,Default,,0,0,0,,190. Voilà bien là un prodige. Cependant, la plupart d'entre eux ne croient pas.
+Dialogue: 0,0:29:20.73,0:29:28.10,Default,,0,0,0,,191. Et ton Seigneur, c'est en vérité Lui le Tout Puissant, le Très Miséricordieux.
+Dialogue: 0,0:29:28.10,0:29:36.10,Default,,0,0,0,,192. Ce (Coran) ci, c'est le Seigneur de l'univers qui l'a fait descendre,
+Dialogue: 0,0:29:36.10,0:29:40.73,Default,,0,0,0,,193. et l'Esprit fidèle est descendu avec cela
+Dialogue: 0,0:29:40.73,0:29:47.57,Default,,0,0,0,,194. sur ton coeur, pour que tu sois du nombre des avertisseurs,
+Dialogue: 0,0:29:47.57,0:29:54.00,Default,,0,0,0,,195. en une langue arabe très claire.
+Dialogue: 0,0:29:54.00,0:29:59.36,Default,,0,0,0,,196. Et ceci était déjà mentionné dans les Écrits des anciens (envoyés).
+Dialogue: 0,0:29:59.36,0:30:13.68,Default,,0,0,0,,197. N'est-ce pas pour eux un signe, que les savants des Enfants d'Israël le sachent ?
+Dialogue: 0,0:30:13.68,0:30:18.63,Default,,0,0,0,,198. Si Nous l'avions fait descendre sur quelqu'un des non-Arabes,
+Dialogue: 0,0:30:18.63,0:30:25.99,Default,,0,0,0,,199. et que celui-ci le leur eut récité, ils n'y auraient pas cru.
+Dialogue: 0,0:30:25.99,0:30:32.42,Default,,0,0,0,,200. Ainsi l'avons Nous fait pénétrer [le doute] dans les coeurs des criminels;
+Dialogue: 0,0:30:32.42,0:30:40.21,Default,,0,0,0,,201. mais ils n'y [le Coran] croiront pas avant de voir le châtiment douloureux,
+Dialogue: 0,0:30:40.21,0:30:47.36,Default,,0,0,0,,202. qui viendra sur eux soudain, sans qu'ils s'en rendent compte;
+Dialogue: 0,0:30:47.36,0:30:53.15,Default,,0,0,0,,203. alors ils diront : «Est-ce qu'on va nous donner du répit ? »
+Dialogue: 0,0:30:53.15,0:30:59.05,Default,,0,0,0,,204. Est-ce qu'ils cherchent à hâter Notre châtiment ?
+Dialogue: 0,0:30:59.05,0:31:05.47,Default,,0,0,0,,205. Vois-tu si Nous leur permettions de jouir, des années durant,
+Dialogue: 0,0:31:05.47,0:31:12.94,Default,,0,0,0,,206. et qu'ensuite leur arrive ce dont on les menaçait,
+Dialogue: 0,0:31:12.94,0:31:21.78,Default,,0,0,0,,207. les jouissances qu'on leur a permises ne leur serviraient à rien.
+Dialogue: 0,0:31:21.78,0:31:32.31,Default,,0,0,0,,208. Et Nous ne faisons pas périr de cité avant qu'elle n'ait eu des avertisseurs,
+Dialogue: 0,0:31:32.31,0:31:37.99,Default,,0,0,0,,209. [à titre de] rappel, et Nous ne sommes pas injuste.
+Dialogue: 0,0:31:37.99,0:31:42.21,Default,,0,0,0,,210. Et ce ne sont point les diables qui sont descendus avec ceci (le Coran) :
+Dialogue: 0,0:31:42.21,0:31:52.31,Default,,0,0,0,,211. cela ne leur convient pas; et ils n'auraient pu le faire.
+Dialogue: 0,0:31:52.31,0:31:58.94,Default,,0,0,0,,212. Car ils sont écartés de toute écoute (du message divin).
+Dialogue: 0,0:31:58.94,0:32:09.15,Default,,0,0,0,,213. N'invoque donc pas une autre divinité avec Dieu, sinon tu seras du nombre des châtiés.
+Dialogue: 0,0:32:09.15,0:32:16.31,Default,,0,0,0,,214. Et avertis les gens qui te sont les plus proches.
+Dialogue: 0,0:32:16.31,0:32:23.26,Default,,0,0,0,,215. Et abaisse ton aile [sois bienveillant] pour les croyants qui te suivent.
+Dialogue: 0,0:32:23.26,0:32:35.05,Default,,0,0,0,,216. Mais s'ils te désobéissent, dis-leur : «Moi, je désavoue ce que vous faites».
+Dialogue: 0,0:32:35.05,0:32:40.84,Default,,0,0,0,,217. Et place ta confiance dans le Tout Puissant, le Très Miséricordieux,
+Dialogue: 0,0:32:40.84,0:32:44.42,Default,,0,0,0,,218. qui te voit quand tu te lèves ,
+Dialogue: 0,0:32:44.42,0:32:48.73,Default,,0,0,0,,219. et (voit) tes gestes parmi ceux qui se prosternent.
+Dialogue: 0,0:32:48.73,0:32:56.10,Default,,0,0,0,,220. C'est Lui vraiment, I'Audient, I'Omniscient.
+Dialogue: 0,0:32:56.10,0:33:06.42,Default,,0,0,0,,221. Vous apprendrai-Je sur qui les diables descendent ?
+Dialogue: 0,0:33:06.42,0:33:11.99,Default,,0,0,0,,222. Ils descendent sur tout calomniateur, pécheur.
+Dialogue: 0,0:33:11.99,0:33:18.10,Default,,0,0,0,,223. Ils tendent l'oreille... Cependant, la plupart d'entre eux sont menteurs.
+Dialogue: 0,0:33:18.10,0:33:26.52,Default,,0,0,0,,224. Et quant aux poètes, ce sont les égarés qui les suivent.
+Dialogue: 0,0:33:26.52,0:33:34.73,Default,,0,0,0,,225. Ne vois-tu pas qu'ils divaguent dans chaque vallée,
+Dialogue: 0,0:33:34.73,0:33:41.78,Default,,0,0,0,,226. et qu'ils disent ce qu'ils ne font pas ?
+Dialogue: 0,0:33:41.78,0:34:10.52,Default,,0,0,0,,227. à part ceux qui croient et font de bonnes oeuvres, qui invoquent souvent le nom de Dieu et se défendent contre les torts qu'on leur fait. Les injustes verront bientôt le revirement qu'ils [éprouveront] !
+Dialogue: 0,0:34:10.52,0:34:16.52,Default,,0,0,0,,[Dieu est le plus grand]
