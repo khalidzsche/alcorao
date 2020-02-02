@@ -11,18 +11,19 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Movies/#مشاري_راشد_العفاسي - سورة مريم من صلاة التراويح لعام 1436هـ من مسجد الراشد-REvcpepVi-Y.mkv
-Video File: ../../../Movies/#مشاري_راشد_العفاسي - سورة مريم من صلاة التراويح لعام 1436هـ من مسجد الراشد-REvcpepVi-Y.mkv
+Audio File: ../../../Movies/Quran/019.mp4
+Video File: ../../../Movies/Quran/019.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 108
-Video Position: 2995
+Video Zoom Percent: 1.000000
+Scroll Position: 11
+Active Line: 20
+Video Position: 8755
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Normal,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Default,Bitter,50,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Helvetica,75,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,10,0,2,10,10,30,1
 Style: Other,Roboto Slab,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
 
 [Events]
@@ -47,7 +48,7 @@ Dialogue: 0,0:03:06.96,0:03:20.80,Default,,0,0,0,,9. Respondeu-lhe: "Assim será
 Dialogue: 0,0:03:20.80,0:03:38.00,Default,,0,0,0,,10. Suplicou: "Ó Senhor meu, aponta-me um sinal!" Disse-lhe: "Teu sinal consistirá em que não poderás falar com ninguém durante três noites."
 Dialogue: 0,0:03:38.00,0:03:59.12,Default,,0,0,0,,11. Saiu do templo e, dirigindo-se ao seu povo, indicou-lhes, por sinais, que glorificassem Deus, de manhã e à tarde.
 Dialogue: 0,0:03:59.12,0:04:10.32,Default,,0,0,0,,12. (Foi dito): "Ó Yahia, observa fervorosamente o Livro!" E o agraciamos, na infância, com a sabedoria,
-Dialogue: 0,0:04:10.32,0:04:20.08,Default,,0,0,0,,13. Assim como o agraciamos com a piedade (por todas as criaturas) e com a pureza, e foi devoto,(1154)
+Dialogue: 0,0:04:10.32,0:04:20.08,Default,,0,0,0,,13. Assim como o agraciamos com a piedade (por todas as criaturas) e com a pureza, e foi devoto,
 Dialogue: 0,0:04:20.08,0:04:29.76,Default,,0,0,0,,14. E gentil para com seus pais, e jamais foi arrogante ou rebelde.
 Dialogue: 0,0:04:29.76,0:04:39.84,Default,,0,0,0,,15. A paz esteve com ele desde o dia em que nasceu, no dia em que morreu, e estará com ele no dia em que for ressuscitado.
 Dialogue: 0,0:04:39.84,0:04:51.28,Default,,0,0,0,,16. E menciona a Maria, no Livro, a qual se separou de sua família, indo a um local ao leste.
