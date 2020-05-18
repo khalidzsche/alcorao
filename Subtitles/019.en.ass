@@ -12,16 +12,16 @@ PlayResY: 1080
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: /Users/marcondes/Movies/#مشاري_راشد_العفاسي - سورة مريم من صلاة التراويح لعام 1436هـ من مسجد الراشد-REvcpepVi-Y.mkv
-Video File: /Users/marcondes/Movies/#مشاري_راشد_العفاسي - سورة مريم من صلاة التراويح لعام 1436هـ من مسجد الراشد-REvcpepVi-Y.mkv
+Audio File: ../../../Movies/Quran/019.mp4
+Video File: ../../../Movies/Quran/019.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Video Position: 24298
+Video Zoom Percent: 0.500000
+Video Position: 3749
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,70,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,10,0,2,10,10,10,1
 Style: Other,Roboto Slab,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
 
 [Events]

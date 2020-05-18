@@ -15,10 +15,10 @@ Audio File: ../../../Movies/Quran/023.mp4
 Video File: ../../../Movies/Quran/023.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 2.000000
-Scroll Position: 88
-Active Line: 93
-Video Position: 2334
+Video Zoom Percent: 1.000000
+Scroll Position: 104
+Active Line: 110
+Video Position: 36806
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,7 +137,7 @@ Dialogue: 0,0:22:42.00,0:22:49.57,Default,,0,0,0,,98. "E em Ti me amparo, ó Sen
 Dialogue: 0,0:22:49.68,0:23:01.78,Default,,0,0,0,,99. (Quanto a eles, seguirão sendo idólatras) até que, quando a morte surpreender algum deles, este dirá: "Ó Senhor meu, manda-me de volta (à terra),"
 Dialogue: 0,0:23:01.89,0:23:31.47,Default,,0,0,0,,100. "A fim de eu praticar o bem que negligenciei!" Pois sim! Tal será a frase que dirá! E ante eles haverá uma barreira, que os deterá até ao dia em que forem ressuscitados.
 Dialogue: 0,0:23:31.47,0:23:52.31,Default,,0,0,0,,101. Porém, quando for soada a trombeta, nesse dia não haverá mais linhagem entre eles, nem se consultarão entre si.
-Dialogue: 0,0:23:52.21,0:24:03.26,Default,,0,0,0,,102. Quanto àqueles cujas ações pesarem mais serão os bem- aventurados.
+Dialogue: 0,0:23:52.31,0:24:03.26,Default,,0,0,0,,102. Quanto àqueles cujas ações pesarem mais serão os bem- aventurados.
 Dialogue: 0,0:24:03.36,0:24:25.36,Default,,0,0,0,,103. Em troca, aqueles cujas (boas) ações forem leves serão desventurados e permanecerão eternamente no inferno.
 Dialogue: 0,0:24:25.47,0:24:39.57,Default,,0,0,0,,104. O fogo abrasará os seus rostos, e estarão com os lábios distendidos.
 Dialogue: 0,0:24:39.68,0:24:49.78,Default,,0,0,0,,105. "Acaso, não vos foram recitados os Meus versículos e vós os desmentistes?"

@@ -6,144 +6,146 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
-Audio File: /Users/marcondes/Movies/#مشاري_راشد_العفاسي - سورة الأنبياء من صلاة التراويح لعام 1436هـ من مسجد الراشد-u5tgMYjZGxY.mp4
-Video File: /Users/marcondes/Movies/#مشاري_راشد_العفاسي - سورة الأنبياء من صلاة التراويح لعام 1436هـ من مسجد الراشد-u5tgMYjZGxY.mp4
+Last Style Storage: Default
+Audio File: ../../../Movies/Quran/021.mp4
+Video File: ../../../Movies/Quran/021.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.500000
+Video Position: 3183
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Helvetica,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,7,2,2,10,10,30,1
 Style: Other,Roboto Slab,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.08,0:00:16.00,Default,,0,0,0,,(Allah est [le] plus grand)
-Dialogue: 0,0:00:16.48,0:00:20.56,Default,,0,0,0,,[1:2] Louange à Allah, Seigneur de l'univers.
+Dialogue: 0,0:00:12.08,0:00:16.00,Default,,0,0,0,,[Dieu est le plus grand]
+Dialogue: 0,0:00:16.48,0:00:20.56,Default,,0,0,0,,[1:2] Louange à Dieu, Seigneur de l'univers.
 Dialogue: 0,0:00:20.56,0:00:24.64,Default,,0,0,0,,[1:3] Le Tout Miséricordieux, le Très Miséricordieux,
 Dialogue: 0,0:00:24.64,0:00:28.80,Default,,0,0,0,,[1:4] Maître du Jour de la rétribution.
 Dialogue: 0,0:00:28.80,0:00:34.40,Default,,0,0,0,,[1:5] C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons secours.
 Dialogue: 0,0:00:34.40,0:00:39.04,Default,,0,0,0,,[1:6] Guide-nous dans le droit chemin,
-Dialogue: 0,0:00:39.04,0:00:55.76,Default,,0,0,0,,[1:7] le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés .
-Dialogue: 0,0:00:55.76,0:01:01.76,Default,,0,0,0,,(Amen)
+Dialogue: 0,0:00:39.04,0:00:55.76,Default,,0,0,0,,[1:7] le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.
+Dialogue: 0,0:00:55.76,0:01:01.76,Default,,0,0,0,,[Amin]
 Dialogue: 0,0:01:03.20,0:01:15.84,Default,,0,0,0,,1. [L'échéance] du règlement de leur compte approche pour les hommes, alors que dans leur insouciance ils s'en détournent.
 Dialogue: 0,0:01:16.08,0:01:28.24,Default,,0,0,0,,1. [L'échéance] du règlement de leur compte approche pour les hommes, alors que dans leur insouciance ils s'en détournent.
 Dialogue: 0,0:01:28.24,0:01:46.40,Default,,0,0,0,,2. Aucun rappel de [révélation] récente ne leur vient de leur Seigneur, sans qu'ils ne l'entendent en s'amusant,
-Dialogue: 0,0:01:46.40,0:02:12.32,Default,,0,0,0,,3. leurs coeurs distraits; et les injustes tiennent des conversations secrètes et disent : "Ce n'est là qu'un être humain semblable à vous? Allez-vous donc vous adonner à la magie alors que vous voyez clair? "
-Dialogue: 0,0:02:12.32,0:02:24.40,Default,,0,0,0,,4. Il a répondu : "Mon Seigneur sait tout ce qui se dit au ciel et sur la terre; et Il est l'Audient, l'Omniscient".
-Dialogue: 0,0:02:24.40,0:02:45.28,Default,,0,0,0,,5. Mais il dirent : "Voilà plutôt un amas de rêves! Ou bien Il l'a inventé. Ou, c'est plutôt un poète. Qu'il nous apporte donc un signe [identique] à celui dont furent chargés les premiers envoyés".
-Dialogue: 0,0:02:45.28,0:03:00.48,Default,,0,0,0,,6. Pas une seule cité parmi celles que Nous avons fait périr avant eux n'avait cru [à la vue des miracles]. Ceux-ci croiront-ils donc?
+Dialogue: 0,0:01:46.40,0:02:12.32,Default,,0,0,0,,3. leurs coeurs distraits; et les injustes tiennent des conversations secrètes et disent : «Ce n'est là qu'un être humain semblable à vous ? Allez-vous donc vous adonner à la magie alors que vous voyez clair ? »
+Dialogue: 0,0:02:12.32,0:02:24.40,Default,,0,0,0,,4. Il a répondu : «Mon Seigneur sait tout ce qui se dit au ciel et sur la terre; et Il est l'Audient, l'Omniscient».
+Dialogue: 0,0:02:24.40,0:02:45.28,Default,,0,0,0,,5. Mais il dirent : «Voilà plutôt un amas de rêves ! Ou bien Il l'a inventé. Ou, c'est plutôt un poète. Qu'il nous apporte donc un signe [identique] à celui dont furent chargés les premiers envoyés».
+Dialogue: 0,0:02:45.28,0:03:00.48,Default,,0,0,0,,6. Pas une seule cité parmi celles que Nous avons fait périr avant eux n'avait cru [à la vue des miracles]. Ceux-ci croiront-ils donc ?
 Dialogue: 0,0:03:00.48,0:03:23.44,Default,,0,0,0,,7. Nous n'avons envoyé avant toi que des hommes à qui Nous faisions des révélations. Demandez donc aux érudits du Livre , si vous ne savez pas.
 Dialogue: 0,0:03:23.44,0:03:34.16,Default,,0,0,0,,8. Et Nous n'en avons pas fait des corps qui ne consommaient pas de nourriture. Et ils n'étaient pas éternels.
 Dialogue: 0,0:03:34.16,0:03:50.16,Default,,0,0,0,,9. Puis Nous réalisâmes la promesse (qui leur avait été faite). Nous les sauvâmes avec ceux que Nous voulûmes [sauver]. Et Nous fîmes périr les outranciers.
-Dialogue: 0,0:03:50.16,0:04:06.80,Default,,0,0,0,,10. Nous avons assurément fait descendre vers vous un livre où se trouve votre rappel [ou votre renom]. Ne comprenez-vous donc pas?
+Dialogue: 0,0:03:50.16,0:04:06.80,Default,,0,0,0,,10. Nous avons assurément fait descendre vers vous un livre où se trouve votre rappel [ou votre renom]. Ne comprenez-vous donc pas ?
 Dialogue: 0,0:04:06.80,0:04:20.80,Default,,0,0,0,,11. Et que de cités qui ont commis des injustices, Nous avons brisées; et Nous avons créé d'autres peuples après eux.
 Dialogue: 0,0:04:20.80,0:04:33.84,Default,,0,0,0,,12. Quand [ces gens] sentirent Notre rigueur ils s'en enfuirent hâtivement.
 Dialogue: 0,0:04:33.84,0:04:48.08,Default,,0,0,0,,13. Ne galopez point. Retournez plutôt au grand luxe où vous étiez et dans vos demeures, afin que vous soyez interrogés.
-Dialogue: 0,0:04:48.08,0:04:58.56,Default,,0,0,0,,14. Ils dirent : "Malheur à nous! Nous étions vraiment injustes".
+Dialogue: 0,0:04:48.08,0:04:58.56,Default,,0,0,0,,14. Ils dirent : «Malheur à nous ! Nous étions vraiment injustes».
 Dialogue: 0,0:04:58.56,0:05:08.88,Default,,0,0,0,,15. Telle ne cessa d'être leur lamentation jusqu'à ce que Nous les eûmes moissonnés et éteints.
 Dialogue: 0,0:05:08.88,0:05:18.72,Default,,0,0,0,,16. Ce n'est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.
 Dialogue: 0,0:05:18.72,0:05:35.68,Default,,0,0,0,,17. Si nous avions voulu prendre une distraction, Nous l'aurions prise de Nous-mêmes, si vraiment Nous avions voulu le faire
-Dialogue: 0,0:05:35.68,0:05:50.00,Default,,0,0,0,,18. Bien au contraire, Nous lançons contre le faux la vérité qui le subjugue, et le voilà qui disparaît. Et malheur à vous pour ce que vous attribuez [injustement à Allah].
+Dialogue: 0,0:05:35.68,0:05:50.00,Default,,0,0,0,,18. Bien au contraire, Nous lançons contre le faux la vérité qui le subjugue, et le voilà qui disparaît. Et malheur à vous pour ce que vous attribuez [injustement à Dieu].
 Dialogue: 0,0:05:50.00,0:06:10.00,Default,,0,0,0,,19. A Lui seul appartiennent tous ceux qui sont dans les cieux et sur la terre. Ceux qui sont auprès de Lui [Les Anges] ne se considèrent point trop grands pour L'adorer et ne s'en lassent pas.
 Dialogue: 0,0:06:10.00,0:06:18.48,Default,,0,0,0,,20. Ils exaltent Sa Gloire nuit et jour et ne s'interrompent point.
 Dialogue: 0,0:06:18.48,0:06:29.60,Default,,0,0,0,,21. Ont-ils pris des divinités qui peuvent ressusciter (les morts) de la terre ?
-Dialogue: 0,0:06:29.60,0:06:46.32,Default,,0,0,0,,22. S'il y avait dans le ciel et la terre des divinités autre qu'Allah, tous deux seraient certes dans le désordre. Gloire, donc à Allah, Seigneur du Trône; Il est au-dessus de ce qu'ils Lui attribuent!
+Dialogue: 0,0:06:29.60,0:06:46.32,Default,,0,0,0,,22. S'il y avait dans le ciel et la terre des divinités autre que Dieu, tous deux seraient certes dans le désordre. Gloire, donc à Dieu, Seigneur du Trône; Il est au-dessus de ce qu'ils Lui attribuent !
 Dialogue: 0,0:06:46.32,0:06:54.16,Default,,0,0,0,,23. Il n'est pas interrogé sur ce qu'Il fait, mais ce sont eux qui devront rendre compte [de leurs actes].
-Dialogue: 0,0:06:54.16,0:07:20.88,Default,,0,0,0,,24. Ont-ils pris des divinités en dehors de Lui? Dis : "Apportez votre preuve". Ceci est la révélation de ceux qui sont avec moi et de ceux qui étaient avant moi. Mais la plupart d'entre eux ne connaissent pas la vérité et s'en écartent.
-Dialogue: 0,0:07:20.88,0:07:47.44,Default,,0,0,0,,25. Et Nous n'avons envoyé avant toi aucun Messager à qui Nous n'ayons révélé : "Point de divinité en dehors de Moi. Adorez-Moi donc".
-Dialogue: 0,0:07:47.44,0:07:59.36,Default,,0,0,0,,26. Et ils dirent : "Le Tout Miséricordieux s'est donné un enfant". Pureté à Lui! Mais ce sont plutôt des serviteurs honorés .
+Dialogue: 0,0:06:54.16,0:07:20.88,Default,,0,0,0,,24. Ont-ils pris des divinités en dehors de Lui ? Dis : «Apportez votre preuve». Ceci est la révélation de ceux qui sont avec moi et de ceux qui étaient avant moi. Mais la plupart d'entre eux ne connaissent pas la vérité et s'en écartent.
+Dialogue: 0,0:07:20.88,0:07:47.44,Default,,0,0,0,,25. Et Nous n'avons envoyé avant toi aucun Messager à qui Nous n'ayons révélé : «Point de divinité en dehors de Moi. Adorez-Moi donc».
+Dialogue: 0,0:07:47.44,0:07:59.36,Default,,0,0,0,,26. Et ils dirent : «Le Tout Miséricordieux s'est donné un enfant». Pureté à Lui ! Mais ce sont plutôt des serviteurs honorés .
 Dialogue: 0,0:07:59.36,0:08:07.60,Default,,0,0,0,,27. Ils ne devancent pas Son Commandement et agissent selon Ses ordres.
 Dialogue: 0,0:08:07.60,0:08:23.12,Default,,0,0,0,,28. Il sait ce qui est devant eux et ce qui derrière eux. Et Ils n'intercèdent qu'en faveur de ceux qu'Il a agréés [tout en étant] pénétrés de Sa crainte.
-Dialogue: 0,0:08:23.12,0:08:45.12,Default,,0,0,0,,29. Et quiconque d'entre eux dirait : "Je suis une divinité en dehors de Lui". Nous le rétribuerons de l'Enfer. C'est ainsi que Nous rétribuons les injustes.
-Dialogue: 0,0:08:45.12,0:09:10.32,Default,,0,0,0,,30. Ceux qui ont mécru, n'ont-ils pas vu que les cieux et la terre formaient une masse compacte? Ensuite Nous les avons séparés et fait de l'eau toute chose vivante. Ne croiront-ils donc pas ?
+Dialogue: 0,0:08:23.12,0:08:45.12,Default,,0,0,0,,29. Et quiconque d'entre eux dirait : «Je suis une divinité en dehors de Lui». Nous le rétribuerons de l'Enfer. C'est ainsi que Nous rétribuons les injustes.
+Dialogue: 0,0:08:45.12,0:09:10.32,Default,,0,0,0,,30. Ceux qui ont mécru, n'ont-ils pas vu que les cieux et la terre formaient une masse compacte ? Ensuite Nous les avons séparés et fait de l'eau toute chose vivante. Ne croiront-ils donc pas ?
 Dialogue: 0,0:09:10.32,0:09:27.12,Default,,0,0,0,,31. Et Nous avons placé des montagnes fermes dans la terre, afin qu'elle ne s'ébranle pas en les [entraînant]. Et Nous y avons placé des défilés servant de chemins afin qu'ils se guident.
 Dialogue: 0,0:09:27.12,0:09:41.36,Default,,0,0,0,,32. Et Nous avons fait du ciel un toit protégé. et cependant ils se détournent de ses merveilles.
 Dialogue: 0,0:09:41.36,0:09:55.60,Default,,0,0,0,,33. Et c'est Lui qui a créé la nuit et le jour, le soleil et la lune, chacun voguant dans une orbite.
-Dialogue: 0,0:09:55.60,0:10:09.28,Default,,0,0,0,,34. Et Nous n'avons attribué l'immortalité à nul homme avant toi. Est-ce que si tu meurs, toi, ils seront, eux éternels?
-Dialogue: 0,0:10:09.28,0:10:30.16,Default,,0,0,0,,35. Toute âme doit goûter la mort. Nous vous éprouverons par le mal et par le bien [à titre] de tentation. Et c'est a Nous que vous serez ramenés.
-Dialogue: 0,0:10:30.16,0:10:52.96,Default,,0,0,0,,36. Quand les mécréants te voient, ils ne te prennent qu'en dérision (disant) : "Quoi! Est-ce là celui qui médit de vos divinités? " Et ils nient [tout] rappel du Tout Miséricordieux.
+Dialogue: 0,0:09:55.60,0:10:09.28,Default,,0,0,0,,34. Et Nous n'avons attribué l'immortalité à nul homme avant toi. Est-ce que si tu meurs, toi, ils seront, eux éternels ?
+Dialogue: 0,0:10:09.28,0:10:30.16,Default,,0,0,0,,35. Toute âme doit goûter la mort. Nous vous éprouverons par le mal et par le bien [à titre] de tentation. Et c'est a Nous vous serez ramenés.
+Dialogue: 0,0:10:30.16,0:10:52.96,Default,,0,0,0,,36. Quand les mécréants te voient, ils ne te prennent qu'en dérision (disant) : «Quoi ! Est-ce là celui qui médit de vos divinités ? » Et ils nient [tout] rappel du Tout Miséricordieux.
 Dialogue: 0,0:10:52.96,0:11:05.60,Default,,0,0,0,,37. L'homme a été créé prompt dans sa nature. Je vous montrerai Mes signes [la réalisation de Mes menaces]. Ne me hâtez donc pas.
-Dialogue: 0,0:11:05.60,0:11:16.32,Default,,0,0,0,,38. Et ils disent : "A quand cette promesse si vous êtes véridiques? "
+Dialogue: 0,0:11:05.60,0:11:16.32,Default,,0,0,0,,38. Et ils disent : «A quand cette promesse si vous êtes véridiques ? »
 Dialogue: 0,0:11:16.32,0:11:34.80,Default,,0,0,0,,39. Si [seulement] les mécréants connaissaient le moment où ils ne pourront empêcher le feu de leurs visages ni de leur dos, et où ils ne seront point secourus...
 Dialogue: 0,0:11:34.80,0:11:50.40,Default,,0,0,0,,40. Mais non, cela leur viendra subitement et ils seront alors stupéfaits; ils ne pourront pas le repousser et on ne leur donnera pas de répit.
 Dialogue: 0,0:11:50.40,0:12:11.20,Default,,0,0,0,,41. On s'est moqué de messagers venus avant toi. Et ceux qui se sont moqués d'eux, se virent frapper de toutes parts par l'objet même de leurs moqueries.
-Dialogue: 0,0:12:11.20,0:12:29.76,Default,,0,0,0,,42. Dis : "Qui vous protège la nuit et le jour, contre le [châtiment] du Tout Miséricordieux? " Pourtant ils se détournent du rappel de leur Seigneur.
-Dialogue: 0,0:12:29.76,0:12:49.12,Default,,0,0,0,,43. Ont-ils donc des divinités en dehors de Nous, qui peuvent les protéger? Mais celles-ci ne peuvent ni se secourir elles-mêmes, ni se faire assister contre Nous.
-Dialogue: 0,0:12:49.12,0:13:17.52,Default,,0,0,0,,44. Au contraire Nous avons accordé une jouissance [temporaire] à ceux-là comme à leurs ancêtres jusqu'à un âge avancé. Ne voient-ils pas que Nous venons à la terre que Nous réduisons de tous côtés? Seront-ils alors les vainqueurs?
-Dialogue: 0,0:13:17.52,0:13:40.56,Default,,0,0,0,,45. Dis : "Je vous avertis par ce qui m'est révélé". Les sourds, cependant, n'entendent pas l'appel quand on les avertit.
-Dialogue: 0,0:13:40.56,0:14:05.84,Default,,0,0,0,,46. Si un souffle du châtiment de ton Seigneur les effleurait, ils diraient alors : "Malheur à nous! Nous étions vraiment injustes".
+Dialogue: 0,0:12:11.20,0:12:29.76,Default,,0,0,0,,42. Dis : «Qui vous protège la nuit et le jour, contre le [châtiment] du Tout Miséricordieux ? » Pourtant ils se détournent du rappel de leur Seigneur.
+Dialogue: 0,0:12:29.76,0:12:49.12,Default,,0,0,0,,43. Ont-ils donc des divinités en dehors de Nous, qui peuvent les protéger ? Mais celles-ci ne peuvent ni se secourir elles-mêmes, ni se faire assister contre Nous.
+Dialogue: 0,0:12:49.12,0:13:17.52,Default,,0,0,0,,44. Au contraire Nous avons accordé une jouissance [temporaire] à ceux-là comme à leurs ancêtres jusqu'à un âge avancé. Ne voient-ils pas que Nous venons à la terre que Nous réduisons de tous côtés ? Seront-ils alors les vainqueurs ?
+Dialogue: 0,0:13:17.52,0:13:40.56,Default,,0,0,0,,45. Dis : «Je vous avertis par ce qui m'est révélé». Les sourds, cependant, n'entendent pas l'appel quand on les avertit.
+Dialogue: 0,0:13:40.56,0:14:05.84,Default,,0,0,0,,46. Si un souffle du châtiment de ton Seigneur les effleurait, ils diraient alors : «Malheur à nous ! Nous étions vraiment injustes».
 Dialogue: 0,0:14:05.84,0:14:34.56,Default,,0,0,0,,47. Au Jour de la Résurrection, Nous placerons les balances exactes. Nulle âme ne sera lésée en rien, fût-ce du poids d'un grain de moutarde que Nous ferons venir. Nous suffisons largement pour dresser les comptes.
 Dialogue: 0,0:14:34.56,0:14:48.24,Default,,0,0,0,,48. Nous avons déjà apporté a Moïse et Aaron le Livre du discernement (la Thora) ainsi qu'une lumière et un rappel pour les gens pieux,
 Dialogue: 0,0:14:48.24,0:14:59.76,Default,,0,0,0,,49. qui craignent leur Seigneur malgré qu'ils ne Le voient pas , et redoutent l'Heure (la fin du monde).
-Dialogue: 0,0:14:59.76,0:15:12.24,Default,,0,0,0,,50. Et ceci [le Coran] est un rappel béni que Nous avons fait descendre. Allez-vous donc le renier?
+Dialogue: 0,0:14:59.76,0:15:12.24,Default,,0,0,0,,50. Et ceci [le Coran] est un rappel béni que Nous avons fait descendre. Allez-vous donc le renier ?
 Dialogue: 0,0:15:12.24,0:15:26.32,Default,,0,0,0,,51. En effet, Nous avons mis auparavant Abraham sur le droit chemin. Et Nous en avions bonne connaissance.
-Dialogue: 0,0:15:26.32,0:15:40.48,Default,,0,0,0,,52. Quand il dit à son père et à son peuple : "Que sont ces statues auxquelles vous vous attachez? ".
-Dialogue: 0,0:15:40.48,0:15:51.28,Default,,0,0,0,,53. Ils dirent : "Nous avons trouvé nos ancêtres les adorant".
-Dialogue: 0,0:15:51.28,0:16:04.32,Default,,0,0,0,,54. Il dit : "Certainement, vous avez été, vous et vos ancêtres, dans un égarement évident".
-Dialogue: 0,0:16:04.32,0:16:15.12,Default,,0,0,0,,55. Ils dirent : "Viens-tu à nous avec la vérité ou plaisantes-tu? ".
-Dialogue: 0,0:16:15.12,0:16:29.84,Default,,0,0,0,,56. Il dit : " Mais votre Seigneur est plutôt le Seigneur des cieux et de la terre, et c'est Lui qui les a créés. Et je suis un de ceux qui en témoignent.
-Dialogue: 0,0:16:29.84,0:16:42.24,Default,,0,0,0,,57. Et par Allah! Je ruserai certes contre vos idoles une fois que vous serez partis".
+Dialogue: 0,0:15:26.32,0:15:40.48,Default,,0,0,0,,52. Quand il dit à son père et à son peuple : «Que sont ces statues auxquelles vous vous attachez ? ».
+Dialogue: 0,0:15:40.48,0:15:51.28,Default,,0,0,0,,53. Ils dirent : «Nous avons trouvé nos ancêtres les adorant».
+Dialogue: 0,0:15:51.28,0:16:04.32,Default,,0,0,0,,54. Il dit : «Certainement, vous avez été, vous et vos ancêtres, dans un égarement évident».
+Dialogue: 0,0:16:04.32,0:16:15.12,Default,,0,0,0,,55. Ils dirent : «Viens-tu à nous avec la vérité ou plaisantes-tu ? ».
+Dialogue: 0,0:16:15.12,0:16:29.84,Default,,0,0,0,,56. Il dit : « Mais votre Seigneur est plutôt le Seigneur des cieux et de la terre, et c'est Lui qui les a créés. Et je suis un de ceux qui en témoignent.
+Dialogue: 0,0:16:29.84,0:16:42.24,Default,,0,0,0,,57. Et par Dieu ! Je ruserai certes contre vos idoles une fois que vous serez partis».
 Dialogue: 0,0:16:42.24,0:16:54.00,Default,,0,0,0,,58. Il les mit en pièces, hormis [la statue] la plus grande. Peut-être qu'ils reviendraient vers elle.
-Dialogue: 0,0:16:54.00,0:17:07.12,Default,,0,0,0,,59. Ils dirent : "Qui a fait cela a nos divinités? Il est certes parmi les injustes".
-Dialogue: 0,0:17:07.12,0:17:19.68,Default,,0,0,0,,60. (Certains) dirent : "Nous avons entendu un jeune homme médire d'elles; il s'appelle Abraham".
-Dialogue: 0,0:17:19.84,0:17:31.04,Default,,0,0,0,,61. Ils dirent : "Amenez-le sous les yeux des gens afin qu'ils puissent témoigner"
-Dialogue: 0,0:17:31.04,0:17:45.44,Default,,0,0,0,,62. (Alors) ils dirent : "Est-ce toi qui as fait cela a nos divinités, Abraham? "
-Dialogue: 0,0:17:45.44,0:18:00.08,Default,,0,0,0,,63. Il dit : "C'est la plus grande d'entre elles que voici, qui l'a fait. Demandez-leur donc, si elles peuvent parler".
-Dialogue: 0,0:18:00.08,0:18:15.12,Default,,0,0,0,,64. Se ravisant alors, ils se dirent entre eux : "C'est vous qui êtes les vrais injustes".
-Dialogue: 0,0:18:15.12,0:18:29.84,Default,,0,0,0,,65. Puis ils firent volte-face et dirent : Tu sais bien que celles-ci ne parlent pas".
-Dialogue: 0,0:18:29.84,0:18:42.56,Default,,0,0,0,,66. Il dit : "Adorez-vous donc, en dehors d'Allah, ce qui ne saurait en rien vous être utile ni vous nuire non plus.
-Dialogue: 0,0:18:42.56,0:18:55.92,Default,,0,0,0,,67. Fi de vous et de ce que vous adorez en dehors d'Allah! Ne raisonnez-vous pas? "
-Dialogue: 0,0:18:55.92,0:19:08.32,Default,,0,0,0,,68. Il dirent : "Brûlez-le Secourez vos divinités si vous voulez faire quelque chose (pour elles)".
-Dialogue: 0,0:19:08.32,0:19:19.68,Default,,0,0,0,,69. Nous dîmes : "Ô feu, sois pour Abraham une fraîcheur salutaire".
+Dialogue: 0,0:16:54.00,0:17:07.12,Default,,0,0,0,,59. Ils dirent : «Qui a fait cela a nos divinités ? Il est certes parmi les injustes».
+Dialogue: 0,0:17:07.12,0:17:19.68,Default,,0,0,0,,60. (Certains) dirent : «Nous avons entendu un jeune homme médire d'elles; il s'appelle Abraham».
+Dialogue: 0,0:17:19.84,0:17:31.04,Default,,0,0,0,,61. Ils dirent : «Amenez-le sous les yeux des gens afin qu'ils puissent témoigner»
+Dialogue: 0,0:17:31.04,0:17:45.44,Default,,0,0,0,,62. (Alors) ils dirent : «Est-ce toi qui as fait cela a nos divinités, Abraham ? »
+Dialogue: 0,0:17:45.44,0:18:00.08,Default,,0,0,0,,63. Il dit : «C'est la plus grande d'entre elles que voici, qui l'a fait. Demandez-leur donc, si elles peuvent parler».
+Dialogue: 0,0:18:00.08,0:18:15.12,Default,,0,0,0,,64. Se ravisant alors, ils se dirent entre eux : «C'est vous qui êtes les vrais injustes».
+Dialogue: 0,0:18:15.12,0:18:29.84,Default,,0,0,0,,65. Puis ils firent volte-face et dirent : Tu sais bien que celles-ci ne parlent pas».
+Dialogue: 0,0:18:29.84,0:18:42.56,Default,,0,0,0,,66. Il dit : «Adorez-vous donc, en dehors de Dieu, ce qui ne saurait en rien vous être utile ni vous nuire non plus.
+Dialogue: 0,0:18:42.56,0:18:55.92,Default,,0,0,0,,67. Fi de vous et de ce que vous adorez en dehors de Dieu ! Ne raisonnez-vous pas ? »
+Dialogue: 0,0:18:55.92,0:19:08.32,Default,,0,0,0,,68. Il dirent : «Brûlez-le Secourez vos divinités si vous voulez faire quelque chose (pour elles)».
+Dialogue: 0,0:19:08.32,0:19:19.68,Default,,0,0,0,,69. Nous dîmes : «Ô feu, sois pour Abraham une fraîcheur salutaire».
 Dialogue: 0,0:19:19.68,0:19:31.84,Default,,0,0,0,,70. Ils voulaient ruser contre lui, mais ce sont eux que Nous rendîmes les plus grands perdants.
 Dialogue: 0,0:19:31.84,0:19:42.40,Default,,0,0,0,,71. Et Nous le sauvâmes, ainsi que Lot, vers une terre que Nous avions bénie pour tout l'univers.
 Dialogue: 0,0:19:42.40,0:19:56.48,Default,,0,0,0,,72. Et Nous lui donnâmes Isaac et, de surcroît Jacob, desquels Nous fîmes des gens de bien.
 Dialogue: 0,0:19:56.48,0:20:31.44,Default,,0,0,0,,73. Nous les fîmes des dirigeants qui guidaient par Notre ordre. Et Nous leur révélâmes de faire le bien, d'accomplir la prière et d'acquitter la Zakat. Et ils étaient Nos adorateurs.
-Dialogue: 0,0:20:31.44,0:20:56.00,Default,,0,0,0,,74. Et Lot! Nous lui avons apporté la capacité de juger et le savoir, et Nous l'avons sauvé de la cité où se commettaient les vices; ces gens étaient vraiment des gens du mal, des pervers.
+Dialogue: 0,0:20:31.44,0:20:56.00,Default,,0,0,0,,74. Et Lot ! Nous lui avons apporté la capacité de juger et le savoir, et Nous l'avons sauvé de la cité où se commettaient les vices; ces gens étaient vraiment des gens du mal, des pervers.
 Dialogue: 0,0:20:56.00,0:21:05.68,Default,,0,0,0,,75. Et Nous l'avons fait entrer en Notre miséricorde. Il était vraiment du nombre des gens du bien.
 Dialogue: 0,0:21:05.68,0:21:19.52,Default,,0,0,0,,76. Et Noé, quand auparavant il fit son appel. Nous l'exauçâmes et Nous le sauvâmes, ainsi que sa famille, de la grande angoisse,
 Dialogue: 0,0:21:19.52,0:21:38.08,Default,,0,0,0,,77. et Nous le secourûmes contre le peuple qui traitait Nos prodiges de mensonges. Il furent vraiment des gens du Mal. Nous les noyâmes donc tous.
 Dialogue: 0,0:21:38.08,0:21:58.96,Default,,0,0,0,,78. Et David, et Salomon, quand ils eurent à juger au sujet d'un champ cultivé où des moutons appartenant à une peuplade étaient allés paître, la nuit. Et Nous étions témoin de leur jugement.
 Dialogue: 0,0:21:58.96,0:22:22.00,Default,,0,0,0,,79. Nous la fîmes comprendre à Salomon . Et à chacun Nous donnâmes la faculté de juger et le savoir. Et Nous asservîmes les montagnes à exalter Notre Gloire en compagnie de David, ainsi que les oiseaux. Et c'est Nous qui sommes le Faiseur.
-Dialogue: 0,0:22:22.00,0:22:37.68,Default,,0,0,0,,80. Nous lui (David) apprîmes la fabrication des cottes de mailles afin qu'elles vous protègent contre vos violences mutuelles (la guerre). En êtes-vous donc reconnaissants?
+Dialogue: 0,0:22:22.00,0:22:37.68,Default,,0,0,0,,80. Nous lui (David) apprîmes la fabrication des cottes de mailles afin qu'elles vous protègent contre vos violences mutuelles (la guerre). En êtes-vous donc reconnaissants ?
 Dialogue: 0,0:22:37.68,0:23:00.08,Default,,0,0,0,,81. Et (Nous avons soumis) à Salomon le vent impétueux qui, par son ordre, se dirigea vers la terre que Nous avions bénie. Et Nous sommes à même de tout savoir,
 Dialogue: 0,0:23:00.08,0:23:17.92,Default,,0,0,0,,82. et parmi les diables il en était qui plongeaient pour lui et faisaient d'autres travaux encore, et Nous les surveillions Nous-mêmes.
-Dialogue: 0,0:23:17.92,0:23:33.52,Default,,0,0,0,,83. Et Job, quand il implora son Seigneur : "Le mal m'a touché. Mais Toi, tu es le plus miséricordieux des miséricordieux" !
+Dialogue: 0,0:23:17.92,0:23:33.52,Default,,0,0,0,,83. Et Job, quand il implora son Seigneur : «Le mal m'a touché. Mais Toi, tu es le plus miséricordieux des miséricordieux» !
 Dialogue: 0,0:23:33.52,0:23:55.44,Default,,0,0,0,,84. Nous l'exauçâmes, enlevâmes le mal qu'il avait, lui rendîmes les siens et autant qu'eux avec eux, par miséricorde de Notre part et en tant que rappel aux adorateurs.
 Dialogue: 0,0:23:55.44,0:24:04.80,Default,,0,0,0,,85. Et Ismaël, Idris et Zul-Kifl qui étaient tous endurants;
 Dialogue: 0,0:24:04.80,0:24:15.52,Default,,0,0,0,,86. que Nous fîmes entrer en Notre miséricorde car ils étaient vraiment du nombre des gens de bien.
-Dialogue: 0,0:24:15.52,0:24:46.40,Default,,0,0,0,,87. Et Zun-Nun (Jonas) quand il partit, irrité. Il pensa que Nous N'allions pas l'éprouver. Puis il fit, dans les ténèbres, l'appel que voici : "Pas de divinité à part Toi! Pureté a Toi! J'ai été vraiment du nombre des injustes".
+Dialogue: 0,0:24:15.52,0:24:46.40,Default,,0,0,0,,87. Et Zun-Nun (Jonas) quand il partit, irrité. Il pensa que Nous N'allions pas l'éprouver. Puis il fit, dans les ténèbres, l'appel que voici : «Pas de divinité à part Toi ! Pureté a Toi ! J'ai été vraiment du nombre des injustes».
 Dialogue: 0,0:24:46.40,0:25:00.16,Default,,0,0,0,,88. Nous l'exauçâmes et le sauvâmes de son angoisse. Et c'est ainsi que Nous sauvons les croyants.
-Dialogue: 0,0:25:00.16,0:25:20.32,Default,,0,0,0,,89. Et Zacharie, quand il implora son Seigneur : "Ne me laisse pas seul, Seigneur, alors que Tu es le meilleur des héritiers".
+Dialogue: 0,0:25:00.16,0:25:20.32,Default,,0,0,0,,89. Et Zacharie, quand il implora son Seigneur : «Ne me laisse pas seul, Seigneur, alors que Tu es le meilleur des héritiers».
 Dialogue: 0,0:25:20.32,0:25:46.00,Default,,0,0,0,,90. Nous l'exauçâmes, lui donnâmes Yahya et guérîmes son épouse . Ils concouraient au bien et Nous invoquaient par amour et par crainte. Et ils étaient humbles devant Nous.
-Dialogue: 0,0:25:46.00,0:26:07.04,Default,,0,0,0,,91. Et celle [la vierge Marie] qui avait préservé sa chasteté! Nous insufflâmes en elle un souffle (de vie) venant de Nous et fîmes d'elle ainsi que de son fils, un signe [miracle] pour l'univers.
+Dialogue: 0,0:25:46.00,0:26:07.04,Default,,0,0,0,,91. Et celle [la vierge Marie] qui avait préservé sa chasteté ! Nous insufflâmes en elle un souffle (de vie) venant de Nous et fîmes d'elle ainsi que de son fils, un signe [miracle] pour l'univers.
 Dialogue: 0,0:26:07.04,0:26:22.88,Default,,0,0,0,,92. Certes, cette communauté qui est la vôtre est une communauté unique, et Je suis votre Seigneur. Adorez-Moi donc.
 Dialogue: 0,0:26:22.88,0:26:36.24,Default,,0,0,0,,93. Ils se sont divisés en sectes. Mais tous, retourneront a Nous.
 Dialogue: 0,0:26:36.24,0:26:54.88,Default,,0,0,0,,94. Quiconque fait de bonnes oeuvres tout en étant croyant, on ne méconnaîtra pas son effort, et Nous le lui inscrivons [à son actif].
-Dialogue: 0,0:26:54.88,0:27:06.48,Default,,0,0,0,,95. Il est défendu [aux habitants] d'une cité que Nous avons fait périr de revenir [à la vie d'ici-bas]!
+Dialogue: 0,0:26:54.88,0:27:06.48,Default,,0,0,0,,95. Il est défendu [aux habitants] d'une cité que Nous avons fait périr de revenir [à la vie d'ici-bas] !
 Dialogue: 0,0:27:06.48,0:27:20.72,Default,,0,0,0,,96. Jusqu'à ce que soient relâchés les Yajuj et les Majuj et qu'ils se précipiteront de chaque hauteur;
-Dialogue: 0,0:27:20.72,0:27:42.00,Default,,0,0,0,,97. c'est alors que la vraie promesse s'approchera, tandis que les regards de ceux qui ont mécru se figent : "Malheur à nous! Nous y avons été inattentifs. Bien plus, nous étions des injustes".
-Dialogue: 0,0:27:42.00,0:27:59.84,Default,,0,0,0,,98. "Vous serez, vous et ce que vous adoriez en dehors d'Allah, le combustible de l'Enfer, vous vous y rendrez tous.
+Dialogue: 0,0:27:20.72,0:27:42.00,Default,,0,0,0,,97. c'est alors que la vraie promesse s'approchera, tandis que les regards de ceux qui ont mécru se figent : «Malheur à nous ! Nous y avons été inattentifs. Bien plus, nous étions des injustes».
+Dialogue: 0,0:27:42.00,0:27:59.84,Default,,0,0,0,,98. «Vous serez, vous et ce que vous adoriez en dehors de Dieu, le combustible de l'Enfer, vous vous y rendrez tous.
 Dialogue: 0,0:27:59.84,0:28:16.64,Default,,0,0,0,,99. Si ceux-là étaient vraiment des divinités, ils n'y entreraient pas; et tous y demeureront éternellement.
 Dialogue: 0,0:28:16.64,0:28:26.08,Default,,0,0,0,,100. Ils y pousseront des gémissements, et n'y entendront rien.
 Dialogue: 0,0:28:26.08,0:28:41.60,Default,,0,0,0,,101. En seront écartés, ceux a qui étaient précédemment promises de belles récompenses de Notre part.
 Dialogue: 0,0:28:41.60,0:28:52.80,Default,,0,0,0,,102. Ils n'entendront pas son sifflement et jouiront éternellement de ce que leurs âmes désirent.
-Dialogue: 0,0:28:52.80,0:29:15.44,Default,,0,0,0,,103. La grande terreur ne les affligera pas, et les Anges les accueilleront : "voici le jour qui vous a été promis".
-Dialogue: 0,0:29:15.44,0:29:41.36,Default,,0,0,0,,104. Le jour où Nous plierons le ciel comme on plie le rouleau des livres. Tout comme Nous avons commencé la première création, ainsi Nous la répéterons; c'est une promesse qui Nous incombe et Nous l'accomplirons!
-Dialogue: 0,0:29:41.36,0:29:54.56,Default,,0,0,0,,105. Et Nous avons certes écrit dans le Zabour, après l'avoir mentionné (dans le Livre céleste), que la terre sera héritée par Mes bons serviteurs" .
-Dialogue: 0,0:29:54.56,0:30:02.72,Default,,0,0,0,,106. Il y a en cela [ces enseignements] une communication à un peuple d'adorateurs!
+Dialogue: 0,0:28:52.80,0:29:15.44,Default,,0,0,0,,103. La grande terreur ne les affligera pas, et les Anges les accueilleront : «voici le jour qui vous a été promis».
+Dialogue: 0,0:29:15.44,0:29:41.36,Default,,0,0,0,,104. Le jour où Nous plierons le ciel comme on plie le rouleau des livres. Tout comme Nous avons commencé la première création, ainsi Nous la répéterons; c'est une promesse qui Nous incombe et Nous l'accomplirons !
+Dialogue: 0,0:29:41.36,0:29:54.56,Default,,0,0,0,,105. Et Nous avons certes écrit dans le Zabour, après l'avoir mentionn&eacude; (dans le Livre céleste), que la terre sera héritée par Mes bons serviteurs» .
+Dialogue: 0,0:29:54.56,0:30:02.72,Default,,0,0,0,,106. Il y a en cela [ces enseignements] une communication à un peuple d'adorateurs !
 Dialogue: 0,0:30:02.72,0:30:11.84,Default,,0,0,0,,107. Et Nous ne t'avons envoyé qu'en miséricorde pour l'univers .
-Dialogue: 0,0:30:11.84,0:30:31.20,Default,,0,0,0,,108. Dis : "Voilà ce qui m'est révélé : Votre Dieu est un Dieu unique; êtes-vous Soumis? " [décidés à embrasser l'Islam]
-Dialogue: 0,0:30:31.20,0:30:50.40,Default,,0,0,0,,109. Si ensuite ils se détournent dis alors : "Je vous ai avertis en toute équité; je ne sais si ce qui vous est promis est proche ou lointain.
+Dialogue: 0,0:30:11.84,0:30:31.20,Default,,0,0,0,,108. Dis : «Voilà ce qui m'est révélé : Votre Dieu est un Dieu unique; Êtes-vous Soumis ? » [décidés à embrasser l'Islam]
+Dialogue: 0,0:30:31.20,0:30:50.40,Default,,0,0,0,,109. Si ensuite ils se détournent dis alors : «Je vous ai avertis en toute équité; je ne sais si ce qui vous est promis est proche ou lointain.
 Dialogue: 0,0:30:50.40,0:30:59.36,Default,,0,0,0,,110. Il connaît ce que vous dites à haute voix et ce que vous cachez.
-Dialogue: 0,0:30:59.36,0:31:09.44,Default,,0,0,0,,111. Et je ne sais pas; ceci est peut-être une tentation pour vous et une jouissance pour un certain temps"!
-Dialogue: 0,0:31:09.44,0:31:25.44,Default,,0,0,0,,112. Il dit : "Seigneur, juge en toute justice ! Et Notre Seigneur le Tout Miséricordieux, c'est Lui dont le secours est imploré contre vos assertions"
-Dialogue: 0,0:31:25.52,0:31:28.24,Default,,0,0,0,,(Allah est [le] plus grand)
+Dialogue: 0,0:30:59.36,0:31:09.44,Default,,0,0,0,,111. Et je ne sais pas; ceci est peut-être une tentation pour vous et une jouissance pour un certain temps» !
+Dialogue: 0,0:31:09.44,0:31:25.44,Default,,0,0,0,,112. Il dit : «Seigneur, juge en toute justice ! Et Notre Seigneur le Tout Miséricordieux, c'est Lui dont le secours est imploré contre vos assertions»
+Dialogue: 0,0:31:25.52,0:31:28.24,Default,,0,0,0,,[Dieu est le plus grand]
 Dialogue: 0,0:31:28.24,0:31:34.24,Default,,0,0,0,,
